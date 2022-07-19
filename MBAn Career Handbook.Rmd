@@ -11,18 +11,50 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # MBAn Career Handbook
 
->Temp writeup for the project. 
+### Executive summary
+> This handbook is for current and future MBAn students to understand how the program works, what the targeted jobs are, and how to prepare for recruiting processes. The handbook will first begin with an overview of the MBAn program, describing different resources available from the Ross experience, classes you may take, and the skills gained from it. Following this introduction, we will transition into the main section of the book, detailing career outcomes available to MBAn students, driven by research from other school’s Business Analytics program, and experiences from former Master of Management students
 
+### Why do we choose MBAn at Ross?
+* Expected values gained from investing your time and money
+* Coursework
+* Career resources
+* Long-term gains
 
+### Career choices
+* Expected career outcomes after MBAn (Things to prepare for the specific roles) TBD
+  + Consulting 
+  + Product Management
+  + Data Analyst (Business Analyst)
+  + Be brave to reaching out and talking to people (alumni & other school’s business analytics), insights from alumni in analytical roles & CDO 
+List of companies for these roles, including whether to offer sponsorship or not
+* Decide your own dream direction and dream companies appropriate for you most(LAMP list）
 
+### Recruiting process
+* Resume preparation process 
+ + What’s in your “Toolbox”
+ + What resources does OYM provide?
+ +List and links to useful resources to look out for
 
-## R Markdown
+* Interview preparation process
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+ + Sample questions
+ + Mock interviews
+ + Interview Prep books (reaching out to full-time mba(consulting club) and mm (who has experience))
+ + Expected timeline and plan
+ + Schedule for different industries recruiting practices
+ + Deadlines to give yourself to be prepared and proactive
+ + Time management for balancing recruiting and classes simultaneously
+			
+### Challenges for International students.
+* Sponsorship
+* H1B process
+* Resources
+ 
+ 
+##### Pointers to work on  
+ + Business Analytics is domain independent.
+ + Keep track of references.
+ + Use glassdoor as a reference.
+ + Taking in first hand references from Alum.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
 
