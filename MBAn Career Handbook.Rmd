@@ -28,30 +28,38 @@ knitr::opts_chunk$set(echo = TRUE)
   + Consulting 
   + Product Management
   + Data Analyst (Business Analyst)
+* Company searching process
+  + Decide your own dream direction and dream companies appropriate for you most(LAMP list）
   + Be brave to reaching out and talking to people (alumni & other school’s business analytics), insights from alumni in analytical roles & CDO 
-List of companies for these roles, including whether to offer sponsorship or not
-* Decide your own dream direction and dream companies appropriate for you most(LAMP list）
+  + List of companies for these roles, including whether to offer sponsorship or not
+
 
 ### Recruiting process
 * Resume preparation process 
- + What’s in your “Toolbox”
- + What resources does OYM provide?
- +List and links to useful resources to look out for
+  + What’s in your “Toolbox”
+  + What resources does OYM provide?
+  + List and links to useful resources to look out for
 
 * Interview preparation process
-
- + Sample questions
- + Mock interviews
- + Interview Prep books (reaching out to full-time mba(consulting club) and mm (who has experience))
- + Expected timeline and plan
- + Schedule for different industries recruiting practices
- + Deadlines to give yourself to be prepared and proactive
- + Time management for balancing recruiting and classes simultaneously
+  + Sample questions
+  + Mock interviews
+  + Interview Prep books (reaching out to full-time mba(consulting club) and mm (who has experience))
+  + Expected timeline and plan
+  + Schedule for different industries recruiting practices
+  + Deadlines to give yourself to be prepared and proactive
+  + Time management for balancing recruiting and classes simultaneously
 			
+<<<<<<< HEAD
 ### Challenges for International students.
 1. Sponsorship
 2. H1B process
 3. Resources
+=======
+### Challenges for International students
+* Sponsorship
+* H1B process
+* Resources
+>>>>>>> 968cbdd177b95b59fbeae1288979b6de47de580a
  
  
 #### Pointers to work on  
