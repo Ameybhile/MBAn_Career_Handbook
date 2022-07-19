@@ -51,7 +51,7 @@ List of companies for these roles, including whether to offer sponsorship or not
 * Resources
  
  
-##### Pointers to work on  
+#### Pointers to work on  
  + Business Analytics is domain independent.
  + Keep track of references.
  + Use glassdoor as a reference.
