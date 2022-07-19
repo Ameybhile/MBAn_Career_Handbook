@@ -49,19 +49,12 @@ knitr::opts_chunk$set(echo = TRUE)
   + Deadlines to give yourself to be prepared and proactive
   + Time management for balancing recruiting and classes simultaneously
 			
-<<<<<<< HEAD
+
 ### Challenges for International students.
 1. Sponsorship
 2. H1B process
 3. Resources
-=======
-### Challenges for International students
-* Sponsorship
-* H1B process
-* Resources
->>>>>>> 968cbdd177b95b59fbeae1288979b6de47de580a
- 
- 
+
 #### Pointers to work on  
  + Business Analytics is domain independent.
  + Keep track of references.
