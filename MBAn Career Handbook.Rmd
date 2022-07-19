@@ -1,8 +1,11 @@
 ---
-title: "MBAn Career Handbook"
-author: "Amey Bhile"
+title: "MBAn Career Handbook Group Project Proposal"
+author: "Team Keep Rolling"
 date: '2022-07-17'
-output: html_document
+output: 
+  html_document:
+    theme:
+      bootswatch: cerulean
 ---
 
 ```{r setup, include=FALSE}
