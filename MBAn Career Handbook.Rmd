@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = TRUE)
   + Time management for balancing recruiting and classes simultaneously
 			
 
-### Challenges for International students.
+### Challenges for International students
 1. Sponsorship
 2. H1B process
 3. Resources
