@@ -12,10 +12,9 @@ github-repo: rstudio/bookdown-demo
 description: "This is a guide written by a group of MBAn students in the program's very first year to provide future MBAns with the resources to begin to explore career opportunities following this OYM."
 ---
 
-# Introduction
+# Introduction {#Intro}
 
-*here is where our intro will go!*
-
+*add here*
 This is a guide written by a group of MBAn students in the program's very first year to provide future MBAns with the resources to begin to explore career opportunities following this OYM.
 
 ```{r include=FALSE}
