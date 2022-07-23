@@ -1,6 +1,6 @@
 fig:nice-fig
 tab:nice-tab
-introduction
+Intro
 intro
 about-us
 why-choose-mban-program-at-ross
@@ -41,6 +41,3 @@ career-choices-1
 recruiting-process-1
 challenges-for-international-students
 pointers-to-work-on
-table-of-contents
-table-of-contents-table-of-contents
-Intro
