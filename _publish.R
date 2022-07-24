@@ -1,5 +1,11 @@
 # publish the book with different HTML styles; you should not need this script
 
+library(shinythemes)
+
+fluidPage(theme = shinytheme("LUX"),
+          ...
+)
+
 unlink('_book', recursive = TRUE)
 
 x = readLines('index.Rmd')
