@@ -1,26 +1,26 @@
 {
-    "id": "D03FC80D",
-    "path": "E:/Umich MBAn/Summer/BA 501 - Team Management/MBAn_Career_Handbook/02-AboutUs.Rmd",
-    "project_path": "02-AboutUs.Rmd",
+    "id": "4405CE36",
+    "path": "~/Desktop/hb/03-WhyChooseMBAn.Rmd",
+    "project_path": "03-WhyChooseMBAn.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1658775100037.0,
+    "created": 1658776781698.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "46,101",
-        "scrollLine": "38"
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1658776056,
+    "lastKnownWriteTime": 1658775381,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658776056789,
+    "last_content_update": 1658775381,
     "read_only": false,
     "read_only_alternatives": []
 }
