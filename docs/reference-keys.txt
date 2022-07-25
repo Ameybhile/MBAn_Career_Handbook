@@ -46,3 +46,6 @@ eunguy-lee
 snow-shen
 mary-silvio
 ziye-wang
+business-analyst-consultant
+business-analyst
+data-scientist

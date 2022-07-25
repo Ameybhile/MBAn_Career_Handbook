@@ -3,9 +3,19 @@
 
 ## Expected Career Outcomes
 
-### Consulting
+### Business Analyst Consultant
 ### Product Management
-### Data Analyst
+### Business Analyst
+### Data scientist 
+  * Who - 
+  * What -
+  * How - 
+  * Companies -
+  * Salary Range - 
+  *
+### Data Engineer
+
+![](Images/DataScienceRoles.jpg)
 
 ## Company Search Process
 
