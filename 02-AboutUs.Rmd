@@ -17,7 +17,7 @@ As individuals, we bring lots of different skills and perspectives to this colle
 =======
 <center>
 
-![](Images/Amey.jpeg)
+![](Images/Amey.jpeg){width=50%}
 
 </center>
 
@@ -30,12 +30,12 @@ Feel free to reach out; I am always happy to help :)
 >"Data is just summaries of thousands of stories - tell a few of them to the world, and you are a data analyst."
 
 ## Eunguy Lee
-<<<<<<< HEAD
+
 <center>
 ![](1651691637018.jpg){width=50%}
 </center>
 >Hello everyone! This is Eunguy. I was born in 1996 and grew up in South Korea. I went to Michigan State University and studied Supply Chain Management. After my junior year in college, I went back to South Korea to serve military as an operations sergeant for about two years. After the military experience, I finished my bechelor degree with online courses from MSU because of the pandemic. Meanwhile, I felt the need of capability handling data so I applied for graduate school with Business Analytics major.
-=======
+
 
 <center>
 
@@ -88,7 +88,6 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 <center>
 
 ![](Photo3.jpg){width=30%}
->>>>>>> 9fe5d534ace9b037c9fcb218b8a1ef0aa7bbefb7
 
 </center>
 
