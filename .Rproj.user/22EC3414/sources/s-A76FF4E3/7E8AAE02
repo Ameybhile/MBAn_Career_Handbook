@@ -3,7 +3,7 @@
     "path": "~/Desktop/hb/02-AboutUs.Rmd",
     "project_path": "02-AboutUs.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1281052970",
     "contents": "",
     "dirty": false,
     "created": 1658777509827.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "70,8",
-        "scrollLine": "66"
+        "cursorPosition": "72,153",
+        "scrollLine": "64"
     },
     "folds": "",
-    "lastKnownWriteTime": 1658781780,
+    "lastKnownWriteTime": 1658781996,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658781780,
+    "last_content_update": 1658781996878,
     "read_only": false,
     "read_only_alternatives": []
 }
