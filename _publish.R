@@ -1,10 +1,10 @@
 # publish the book with different HTML styles; you should not need this script
 
-library(shinythemes)
+##library(shinythemes)
 
-fluidPage(theme = shinytheme("LUX"),
+##fluidPage(theme = shinytheme("LUX"),
           ...
-)
+##)
 
 unlink('_book', recursive = TRUE)
 
