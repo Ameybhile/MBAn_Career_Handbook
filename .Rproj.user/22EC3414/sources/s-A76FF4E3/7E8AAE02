@@ -3,7 +3,7 @@
     "path": "~/Desktop/hb/02-AboutUs.Rmd",
     "project_path": "02-AboutUs.Rmd",
     "type": "r_markdown",
-    "hash": "2199262600",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1658777509827.0,
@@ -13,14 +13,14 @@
         "source_window_id": "",
         "Source": "Source",
         "cursorPosition": "56,0",
-        "scrollLine": "48"
+        "scrollLine": "65"
     },
     "folds": "",
-    "lastKnownWriteTime": 1658777999,
+    "lastKnownWriteTime": 1658779600,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658777999090,
+    "last_content_update": 1658779600,
     "read_only": false,
     "read_only_alternatives": []
 }
