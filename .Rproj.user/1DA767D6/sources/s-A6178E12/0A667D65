@@ -3,7 +3,7 @@
     "path": "~/Documents/RProject/MBAn_Career_Handbook/02-AboutUs.Rmd",
     "project_path": "02-AboutUs.Rmd",
     "type": "r_markdown",
-    "hash": "854954404",
+    "hash": "2489492355",
     "contents": "",
     "dirty": false,
     "created": 1658723687691.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "27,0",
+        "cursorPosition": "22,0",
         "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1658777007,
+    "lastKnownWriteTime": 1658777471,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658777007774,
+    "last_content_update": 1658777471216,
     "read_only": false,
     "read_only_alternatives": []
 }
