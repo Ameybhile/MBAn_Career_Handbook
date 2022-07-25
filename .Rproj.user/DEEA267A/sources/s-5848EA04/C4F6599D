@@ -1,26 +1,26 @@
 {
-    "id": "4405CE36",
-    "path": "~/Desktop/hb/03-WhyChooseMBAn.Rmd",
-    "project_path": "03-WhyChooseMBAn.Rmd",
+    "id": "C4F6599D",
+    "path": "~/Desktop/ross/mban501/MBAn_Career_Handbook/02-AboutUs.Rmd",
+    "project_path": "02-AboutUs.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1658776781698.0,
-    "source_on_save": false,
+    "created": 1658683157170.0,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,0",
-        "scrollLine": "0"
+        "cursorPosition": "16,13",
+        "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1658775381,
+    "lastKnownWriteTime": 1658776139,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1658775381,
+    "last_content_update": 1658776139,
     "read_only": false,
     "read_only_alternatives": []
 }
