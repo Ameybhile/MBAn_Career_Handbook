@@ -1,4 +1,4 @@
-about
+introduction
 usage
 render-book
 preview-book
@@ -42,6 +42,9 @@ challenges-for-international-students.
 sponsorship
 h1b-process
 resources
+<<<<<<< HEAD
 introduction
 data-engineer
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
+=======
+>>>>>>> ea47f20b791ac6e75317b6784186507417c25315
