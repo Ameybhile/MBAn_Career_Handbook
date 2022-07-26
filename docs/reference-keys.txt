@@ -58,3 +58,7 @@ other-ross-resources
 data-engineer
 r-markdown
 including-plots
+introduction
+usage
+render-book
+preview-book
