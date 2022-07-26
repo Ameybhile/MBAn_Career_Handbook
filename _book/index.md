@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "MBAn Career Handbook"
+author: "Keep Rolling"
 date: "2022-07-26"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,7 +15,7 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# About
+# Introduction
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
