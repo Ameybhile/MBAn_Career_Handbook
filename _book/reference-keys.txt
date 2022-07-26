@@ -1,4 +1,4 @@
-about
+introduction
 usage
 render-book
 preview-book
@@ -42,5 +42,3 @@ challenges-for-international-students.
 sponsorship
 h1b-process
 resources
-introduction
-data-engineer
