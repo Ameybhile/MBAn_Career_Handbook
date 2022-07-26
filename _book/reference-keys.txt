@@ -21,7 +21,6 @@ business-analyst-consultant
 product-management
 business-analyst
 data-scientist
-data-engineer
 company-search-process
 deciding-dream
 networking
@@ -43,4 +42,3 @@ challenges-for-international-students.
 sponsorship
 h1b-process
 resources
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
