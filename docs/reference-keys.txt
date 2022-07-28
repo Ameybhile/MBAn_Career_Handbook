@@ -1,4 +1,9 @@
-Intro
+introduction
+usage
+render-book
+preview-book
+hello-bookdown
+a-section
 about-us
 amey-bhile
 eunguy-lee
@@ -39,25 +44,5 @@ challenges-for-international-students.
 sponsorship
 h1b-process
 resources
-<<<<<<< HEAD
-mban-career-handbook
-executive-summary
-why-do-we-choose-mban-at-ross
-career-choices-1
-recruiting-process-1
-challenges-for-international-students
-pointers-to-work-on
-hello-everyone-this-is-eunguy.-i-was-born-in-1996-and-grew-up-in-south-korea.-i-went-to-michigan-state-university-and-studied-supply-chain-management.-after-my-junior-year-in-college-i-went-back-to-south-korea-to-serve-military-as-an-operations-sergeant-for-about-two-years.-after-the-military-experience-i-finished-my-bechelor-degree-with-online-courses-from-msu-because-of-the-pandemic.-meanwhile-i-felt-the-need-of-capability-handling-data-so-i-applied-for-graduate-school-with-business-analytics-major.
-section
-data-engineer
-r-markdown
-including-plots
-introduction
-usage
-render-book
-preview-book
 url-your-book-url-like-httpsbookdown.orgyihuibookdown
-=======
->>>>>>> c14120313fd9b1c98da065fa55e29b49329f962b
-hello-bookdown
-a-section
+data-engineer
