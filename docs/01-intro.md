@@ -1,17 +1,3 @@
-# Hello bookdown 
+# Motivation for the book {-}
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
-
-## A section
-
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
-
-### An unnumbered section {-}
-
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
-
-sadfdsfgkjsdglkherlug
-sdfgsdfhfdhfdh
-sdfgdsfhfdsgbh
-sdrfgsdfhtdhs
-
+> This handbook is for current and future MBAn students to understand how the program works, what the targeted jobs are, and how to prepare for recruiting processes. The handbook will first begin with an overview of the MBAn program, describing different resources available from the Ross experience, classes you may take, and the skills gained from it. Following this introduction, we will transition into the main section of the book, detailing career outcomes available to MBAn students, driven by research from other school’s Business Analytics program, the CDO resources, and experiences from former Master of Management students that have moved onto careers. We will introduce techniques for going through career exploration independently while utilizing the guide. Next will be a chapter focusing on the overall recruiting process for the discussed careers and how MBAn students can prepare and plan for networking, applications, and interviews. We will accumulate best practices for resumes, cover letters, and interviews. A final section will be included detailing supportive resources for the challenges international students face when searching for careers in the U.S. and globally, including a dynamic list of companies that offer sponsorship. We recognize research and resources our team is able to provide over the next few weeks is non-exhaustive, but we hope for this handbook to be a baseline for future students of this program and can live on and be updated in the future as the Master of Business Analytics Graduates enter the workforce and find success in their careers.

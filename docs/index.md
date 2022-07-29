@@ -1,41 +1,19 @@
 --- 
 title: "MBAn Career Handbook"
-author: "Keep Rolling"
+author: "Team - Keep Rolling"
 date: "2022-07-28"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+url: https://ameybhile.github.io/MBAn_Career_Handbook
+cover-image: Images/MichiganRossLogo.png
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::bs4_book,
-  set in the _output.yml file.
+  MBAn Career Handbook 
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Introduction
+# HomePage of the Book {-}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
-
-## Usage 
-
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
-
-
-## Render book
-
-> This handbook is for current and future MBAn students to understand how the program works, what the targeted jobs are, and how to prepare for recruiting processes. The handbook will first begin with an overview of the MBAn program, describing different resources available from the Ross experience, classes you may take, and the skills gained from it. Following this introduction, we will transition into the main section of the book, detailing career outcomes available to MBAn students, driven by research from other school’s Business Analytics program, the CDO resources, and experiences from former Master of Management students that have moved onto careers. We will introduce techniques for going through career exploration independently while utilizing the guide. Next will be a chapter focusing on the overall recruiting process for the discussed careers and how MBAn students can prepare and plan for networking, applications, and interviews. We will accumulate best practices for resumes, cover letters, and interviews. A final section will be included detailing supportive resources for the challenges international students face when searching for careers in the U.S. and globally, including a dynamic list of companies that offer sponsorship. We recognize research and resources our team is able to provide over the next few weeks is non-exhaustive, but we hope for this handbook to be a baseline for future students of this program and can live on and be updated in the future as the Master of Business Analytics Graduates enter the workforce and find success in their careers.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-
-```r
-bookdown::serve_book()
-```
-
-
+>You are expected to Build the whole book and not just Knit the Homepage.Need to add few things here.
 

@@ -29,7 +29,7 @@ Feel free to reach out; I am always happy to help :)
 
 <center>
 
-![](1651691637018.jpg){width=50%}
+![](Images/Eunguy.jpg){width=50%}
 
 </center>
 
@@ -66,7 +66,7 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 
 <center>
 
-![](Photo3.jpg){width=50%}
+![](Images/Siye.jpg){width=50%}
 
 </center>
 
