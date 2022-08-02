@@ -1,6 +1,6 @@
 # Why Choose the MBAn Program at Ross?
 
-We can also add our group photo for this page 
+
 
 ## Program Value
 

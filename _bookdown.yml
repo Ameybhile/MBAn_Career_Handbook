@@ -1,4 +1,4 @@
-book_filename: "bs4_book"
+book_filename: "MBAn_Career_Handbook"
 new_session: true
 before_chapter_script: _common.R
 delete_merged_file: true
