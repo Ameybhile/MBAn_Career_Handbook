@@ -25,43 +25,38 @@
 * Launch the product. Product managers work closely with the company’s marketing team to reach the right customers. 
 
 
-## Business analyst vs data scientist: What’s the difference? {-}
-
-> The work of Business analysts and data scientists can seem similar—both find trends or patterns in data to reveal new ways for organizations to make better decisions about operations. But data scientists tend to have more responsibility and are generally considered more senior than data analysts.\
-Data scientists are often expected to form their own questions about the data, while data analysts might support teams that already have set goals in mind. A data scientist might also spend more time developing models, using machine learning, or incorporating advanced programming to find and analyze data.\
-Many data scientists can begin their careers as analysts or statisticians
-
-
 ## Skills required for these roles {-}
 
-### Programming languages: {-} 
-Data scientists can expect to spend time using programming languages to sort through, analyze, and otherwise manage large chunks of data. Popular programming languages for data science include: Python, R, SQL,SAS
+### Communication Skills: {-} 
+> Product managers are the product champions and are responsible for guiding product ideas from start to finish.They should be able to communicate with different stakeholders (e.g., customers, product team members) in order to make sure they understand how their decisions will affect the product or business strategy. Communication skills help a product manager establish credibility, listen to their product team, and create a shared understanding of the product.
 
-### Data visualization: {-}
-Being able to create charts and graphs is a significant part of being a data scientist. Familiarity with the following tools should prepare you to do the work:
-Tableau, PowerBI, Excel
+### Technical Expertise: {-}
+> Product managers need to be able to understand product design, engineering, and coding.This means that they should know the difference between UX/UI designers, product engineers, and product developers and how each of their skills is fundamental in designing an outstanding product.Basic technical expertise is also important for understanding what problem a product solves and making sure the product is properly built and tested.
 
-### Machine learning: {-} 
-Incorporating machine learning and deep learning into your work as a data scientist means continuously improving the quality of the data you gather and potentially being able to predict the outcomes of future datasets. A course in machine learning can get you started with the basics.
+### Business Skills: {-} 
+> Product managers must be able to use data-driven decision-making and understand the business side of product development.Product managers need these deep business skills because they have less time for traditional “product management” tasks like product planning or product design.The product manager role will evolve with product development to be more business-focused.
 
-### Big data: {-} 
-Some employers may want to see that you have some familiarity grappling with big data. Some of the software frameworks used to process big data include Hadoop and Apache Spark.
+### Research Abilities: {-} 
+> Product managers need product management skills and deep business knowledge, but they also must have a strong understanding of the customer.The product manager will then be able to apply their product development skills strategically with data-driven decision-making for an outstanding product that meets market needs in 2022. It is important for product managers to keep up with trends, product management techniques, and new product development strategies. Product managers should be able to understand the ever-changing customer needs, think strategically about diversifying or evolving products/services that already exist but are not meeting current market needs.
 
-### Communication: {-}
-The most brilliant data scientists won’t be able to affect any change if they aren’t able to communicate their findings well. The ability to share ideas and results verbally and in written language is an often-sought skill in data scientists.
+### Strategic Thinking Skills: {-}
+> Product managers must be able to think about product strategy past what is simply on the product roadmap, and this means being able to anticipate possible hurdles or problems. This includes thinking of ways around a problem that have been tried before in order to come up with something new and innovative for their product.
+
+### Prioritization Skills: {-}
+> Product managers need to be able to prioritize product features, requirements, and tasks in order of importance. This means that product managers must know which product feature will have the most impact on their customers or potential customers.
 
 ## Salary with years of experience: {-}
 
-* Data Scientist Level 1  - $85,000–$110,000 (0-3 years of experience)			
-* Data Scientist Level 2	- $120,000–$140,000 (4-8 years of experience)			
-*  Data Scientist Level 3	- $148,000–$185,000 (9+ years of experience)			
-* Data Scientist Manager Level 1	-  $132,000–$164,000 (supervises 1-3 people)			
-* Data Scientist Manager Level 2	-  $180,000–$210,000 (supervises 4-9 people)			
-* Data Scientist Manager Level 3	-  $210,000–$275,000 (supervises 10+ people)
+* Associate product manager  - $80,000–$100,000 (0-3 years of experience)			
+* Product manager	- $110,000–$140,000 (4-8 years of experience)			
+* Senior product manager	- $135,000–$180,000 (9+ years of experience)			
+* Director of product management	-  $150,000–$184,000 (supervises 3-5 PM)			
+* VP of product management	-  $190,000–$230,000 (supervises 9-12 PM)			
+* Chief product officer (CPO)	-  $210,000–$275,000 (supervises at company level)
 
 ## Admission timeline for these roles {-}
 
-## Components of a Data Science interview porcess {-}
+## Components of a Product Management interview porcess {-}
 
 ### Coding (38%)
 
@@ -131,17 +126,5 @@ For example, some companies may prefer a candidate who is highly independent and
 
 ## List of important topics for the interview
 
-* Linear regression
-* Validation
-* Classification and logistic regression
-* Regularization
-* Decision trees
-* Random forest
-* Gradient boosting trees
-* Neural networks
-* Text classification
-* Clustering
-* Ranking: search and recommendation
-* Time series
 
 

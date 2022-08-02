@@ -1,29 +1,18 @@
-# Product Manager {-}
+# Business Analyst/Data Scientist {-}
 
-## Who is a Product Manager? {-}
+## Who exactly is a Data person? {-}
 
-> A product manager connects business strategy, design knowledge, and customer needs in order to develop a product that is relevant, feasible, and valuable. PMs are focused on optimizing a product to achieve the business goals and user necessities while maximizing return on investment.
-
-> They are the overseers of a company’s products and the technological innovation behind them, and the stewards of that innovation’s role in meeting the customers’ needs in the marketplace.
-
+> You have data. To use this data to inform your decision-making, it needs to be relevant, well-organized, and preferably digital. Once your data is coherent, you proceed with analyzing it and creating dashboards and reports to understand your business’s performance better. Then you set your sights on the future and start generating predictive analytics. With predictive analytics, you assess potential future scenarios and predict consumer behavior in creative ways.
 
 
 ## What does he do? {-}
 
-* Identify a problem - Product managers assess the market and suggest ways to leverage their company’s resources to create a product that will solve a problem for customers.
-
-* Interview prospective customers - This enables product managers to get a feel for how the potential software or hardware product could be used and how much of a market exists for the product.
-
-* Develop a proposal for the product - Product managers work closely with technologists to scope the technical parameters and determine what products and features will best align with the company’s business strategy. A great product that customers will love (and buy!) is said to have great product-market fit.
-
-* Let the technical people build the tech - Product managers at this stage help things move along smoothly and check in to ensure the process stays on track.
-
-* Ask thoughtful questions throughout. Keep the business strategy top of mind for the company. 
-
-* Make sure the product works. Product managers constantly measure, test, and validate their product with their customers—to make sure that what the team has built meets customer needs as well as they had hoped. 
-
-* Launch the product. Product managers work closely with the company’s marketing team to reach the right customers. 
-
+* Find patterns and trends in datasets to uncover insights
+* Create algorithms and data models to forecast outcomes
+* Use machine learning techniques to improve the quality of data or product offerings
+* Communicate recommendations to other teams and senior staff
+* Deploy data tools such as Python, R, SAS, or SQL in data analysis
+* Stay on top of innovations in the data science field
 
 ## Business analyst vs data scientist: What’s the difference? {-}
 
@@ -61,7 +50,7 @@ The most brilliant data scientists won’t be able to affect any change if they 
 
 ## Admission timeline for these roles {-}
 
-## Components of a Data Science interview porcess {-}
+## Components of a Data Science interview porcess
 
 ### Coding (38%)
 
@@ -128,20 +117,5 @@ Although the majority of technical jobs require heavy hard skills, soft skills a
 During the behavioral stage, articulating yourself using elements of your resume to back your point will make you successful. 
 
 For example, some companies may prefer a candidate who is highly independent and requires little to no interaction. The interviewer will scan through your resume and ask how you had worked in your previous companies and your preferred working method. You will have an understanding that they require an independent employee and can draw out past experiences where you were independent.
-
-## List of important topics for the interview
-
-* Linear regression
-* Validation
-* Classification and logistic regression
-* Regularization
-* Decision trees
-* Random forest
-* Gradient boosting trees
-* Neural networks
-* Text classification
-* Clustering
-* Ranking: search and recommendation
-* Time series
 
 
