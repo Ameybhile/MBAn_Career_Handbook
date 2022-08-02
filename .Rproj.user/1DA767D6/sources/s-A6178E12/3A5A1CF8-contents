@@ -1,5 +1,0 @@
-`r if (knitr:::is_html_output()) '
-# References {-}
-
-* https://365datascience.com/career-advice/career-guides/data-scientist-2021/
-'`
