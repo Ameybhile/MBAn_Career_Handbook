@@ -43,3 +43,11 @@ expected-timeline-and-plan
 schedule-for-different-industries-recruiting-practices
 deadlines-to-give-yourself-to-be-prepared-and-proactive
 time-management-for-balancing-recruiting-and-classes-simultaneously
+business-analystdata-scientist
+who-exactly-is-a-data-person
+what-does-he-do
+business-analyst-vs-data-scientist-whats-the-difference
+skills-required-for-these-roles
+programming-languages
+data-visualization
+communication
