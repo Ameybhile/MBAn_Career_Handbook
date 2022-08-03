@@ -30,12 +30,6 @@ machine-learning-17-1
 business-case-problems-12-1
 behavioral-questions-13-1
 list-of-important-topics-for-the-interview
-coding-38-2
-statistics-21-2
-machine-learning-17-2
-business-case-problems-12-2
-behavioral-questions-13-2
-list-of-important-topics-for-the-interview-1
 a-section
 sponsorship
 h1b-process
