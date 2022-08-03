@@ -8,7 +8,7 @@
 
 
 
-## What does he do? {-}
+## What do they do? {-}
 
 * Identify a problem - Product managers assess the market and suggest ways to leverage their company’s resources to create a product that will solve a problem for customers.
 
