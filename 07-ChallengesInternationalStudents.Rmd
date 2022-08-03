@@ -1,5 +1,5 @@
 # Challenges for International students {-}
 
-## Sponsorship
-## H1B process
-## Resources
+## Sponsorship {-}
+## H1B process {-}
+## Resources {-}

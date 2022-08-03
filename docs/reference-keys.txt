@@ -1,14 +1,3 @@
-amey-bhile
-eunguy-lee
-snow-shen
-mary-silvio
-ziye-wang
-program-value
-coursework
-career-resources
-career-development-office
-other-ross-resources
-long-term-gains
 components-of-a-data-science-interview-porcess
 coding-38
 statistics-21
@@ -33,7 +22,4 @@ expected-timeline-and-plan
 schedule-for-different-industries-recruiting-practices
 deadlines-to-give-yourself-to-be-prepared-and-proactive
 time-management-for-balancing-recruiting-and-classes-simultaneously
-sponsorship
-h1b-process
-resources
 a-section
