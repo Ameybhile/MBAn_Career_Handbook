@@ -1,4 +1,5 @@
 # Consultant {-}
+**page currently under construction**  
 
 ## Who is a Consultant? {-}
 
@@ -14,14 +15,14 @@ Usually, when you submit an online application for a position in the consulting,
 
 >2023/2022 Consulting Company-North American Campus Recruiting Application and Interview Schedule (not exhausted):
 
-### McKinsey-2023:
+### McKinsey-2023: {-}
 * Online Application ddl:
 * Round 1: Jul. 7th
 * Round 2: Aug.11th
 * Expected Interview in September
 * Offer release in October
 
-### BCG-2023:
+### BCG-2023: {-}
 * Round 1: Jul. 14th	
 * Online assessment and Interview in August and September
 * Offer release in October
@@ -29,25 +30,25 @@ Usually, when you submit an online application for a position in the consulting,
 * Online assessment and Interview in September
 * Offer release in October or November
 
-### Bain-2023:
+### Bain-2023: {-}
 * Round 1: Jul.11th	
 * Round 2: Aug.8th 
 * Round 3: Sept.15th 
 * Online assessment and Interview is rolling
 * Offer release in October to November
 
-### Kearney-2023:
+### Kearney-2023: {-}
 * Application DDL: Aug.23th
 * Pre-talk and Interview: September to October
 * Offer release in November
 
-### PwC Strategy&-2022:
+### PwC Strategy&-2022: {-}
 * Application DDL：Sept.21th
 * Online assessment will be sent automatically once you submit
 * Pre-talk and Interview: October to November
 * Offer release in November to December
 
-### OC&C Strategy-2022:
+### OC&C Strategy-2022: {-}
 * Application DDL: Oct.18th
 * Pre-talk and Interview: October to December
 * Offer release expected before January in next year
@@ -55,50 +56,50 @@ Usually, when you submit an online application for a position in the consulting,
 ## Timeline in Consulting Preparation: {-}
 >Since the interview timeline is very tight, we recommend that you follow the principle of "the earlier the better" during your preparation, the following timeline is as reference: 
 
-### May: 
+### May:{-}
 * Promote your resume
 * Research on your dream company
 * Start networking
 
-### June: 
+### June: {-}
 * Behavioral Questions 
 * Get to know the background of Case Interview
 * Mini-Case Practice
 
-### July: 
+### July: {-}
 * Round 1st or 2nd application ddl
 * Online test Preparation
 * General Case Preparation
 * Mock Interview
 
-### August-September：
+### August-September：{-}
 * Most application ddl
 * Mock Interview
 * Interview with some companies(if have)
 * Networking with 2nd/3rd choices
 
-### October:
+### October: {-}
 * Offer & Offer call! (Maybe)
 * Mock Interview
 * Interview with some companies
 
-### November – December:
+### November – December: {-}
 * Final Rounds (most companies)
 * Offers
 
-### December – April next year:
+### December – April next year: {-}
 * Network with future colleagues/business insights
 
 
 ## Components of a Consultant interview porcess {-}
 >Case interviews take very similar formats across the various consultancies where they are used. Before landing an offer at McKinsey, Bain, BCG or any similar firm, you will have to complete between four and six case interviews, divided into two rounds, with each interview lasting approximately 50-60 minutes. Here is the typical case interview timeline:\
 
-### Interview timeline
+### Interview timeline {-}
 * First 15-30 minutes: Fit Interview, assessing your motivation to be a consultant in that specific firm and your leadership and teamwork traits. Learn more about the fit interview in our article here.
 * Next 30-40 minutes: Case Interview
 * Last 5 minutes: Fit Interview, again. This time it’s about your questions for the interviewer.
 
-### What skills Interviewers want to see from your interviews?
+### What skills Interviewers want to see from your interviews? {-}
 * PROBING MIND: Showing intellectual curiosity by asking relevant and insightful questions that show show critical thinking and proactive nature
 * STRUCTURE: Structuring means creating a framework, i.e. a series of clear consecutive steps in order to get to a solution to the problem. The focus of case interview frameworks (and of the whole case in general) is not on reaching solution themselves, but rather on how to get there.
 * PROBLEM SOLVING: You’ll be tested on your ability in identifying problems and drivers, isolating causes and effects, demonstrating creativity, and prioritizing issues.
