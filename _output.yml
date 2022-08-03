@@ -2,6 +2,7 @@ bookdown::bs4_book:
   css: style.css
   theme:
       bootswatch: litera
+      primary: "#00274C"
   repo: https://github.com/rstudio/bookdown-demo
 bookdown::pdf_book:
   includes:

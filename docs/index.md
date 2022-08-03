@@ -16,7 +16,7 @@ csl: chicago-fullnote-bibliography.csl
 
 <center>
 
-![](Images/MichiganRosslogo.png){width=80%}
+![](Images/MichiganRosslogo.png){width=100%}
 
 </center>
 
