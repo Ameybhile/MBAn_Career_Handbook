@@ -50,9 +50,9 @@ The most brilliant data scientists won’t be able to affect any change if they 
 
 ## Admission timeline for these roles {-}
 
-## Components of a Data Science interview porcess
+## Components of a Data Science interview porcess {-}
 
-### Coding (38%)
+### Coding (38%) {-}
 
 This will test your problem-solving skills and how you manipulate data using algorithms, SQL, etc. 
  
@@ -65,7 +65,7 @@ Algorithms: Binary Search, Recursion, Sorting, and more.
 SQL: Constraints, Primary/Foreign Key, Join, and more
  
 
-### Statistics (21%)
+### Statistics (21%) {-}
 
 This will test your understanding of statistics as a whole and how you have and can apply them within problem-solving tasks.
  
@@ -78,7 +78,7 @@ Hypothesis Testing
 Modeling
 
  
-### Machine learning (17%) 
+### Machine learning (17%) {-}
 
 This will test your ability to understand the theory behind Machine Learning, how to build models, how it applies to a specific problem/task at hand, and how you can improve it. 
  
@@ -94,7 +94,7 @@ Types of Algorithms
 Use cases of Machine Learning
 Example questions would be:
 
-###  Business Case problems (12%) 
+###  Business Case problems (12%) {-}
 This will test your understanding of technical knowledge and how it can be used to drive business and determine the right decision to make. 
  
 The reason that data is so valuable is that it can give people a greater understanding of the data and it can help make important decisions. 
@@ -108,7 +108,7 @@ Business short-term and long-term goals
 Example questions would be:
 
 
-### Behavioral questions (13%) 
+### Behavioral questions (13%) {-}
 
 This will test your characteristics and determine if you are a good fit for the company. 
  
