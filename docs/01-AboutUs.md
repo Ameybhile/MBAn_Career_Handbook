@@ -1,4 +1,4 @@
-# About Us
+# About Us {-}
 
 We are Team Keep Rolling, a group of MBAn students in the first-ever year of this new program! We chose this name to describe us because we went into this semester with the plan to never give up, continue to be creative and bring our ideas together for success!
 
@@ -10,7 +10,7 @@ We are Team Keep Rolling, a group of MBAn students in the first-ever year of thi
 
 As individuals, we bring lots of different skills and perspectives to this collective team and are motivated to learn more about career paths for this new program to serve future students. You can learn more about each of us in the sections to follow. 
 
-## Amey Bhile
+## Amey Bhile {-}
 
 <center>
 
@@ -25,7 +25,7 @@ Feel free to reach out; I am always happy to help :)
 
 >"Data is just summaries of thousands of stories - tell a few of them to the world, and you are a data analyst."
 
-## Eunguy Lee
+## Eunguy Lee {-}
 
 <center>
 
@@ -39,7 +39,7 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 >At this point at Ross, I am so exciting to build my network and equip myself with useful tools, such as Python, R, and SQL. As a business person, I am not used to these computer skills. However, someone said "the pain that doesn't kill you will make you stronger." I believe putting my time and effort for the next 10 months will develop my ability as a business analyst. I hope this career handbook brings some insights for you. 
 
 
-## Snow Shen
+## Snow Shen {-}
 
 <center>
 
@@ -50,7 +50,7 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 >Hi, I'm Snow! I come from a southern city in China called Hangzhou. It’s warm there and seldomly snows. Every winter, I waited for snow and hoped the world can be covered in white when I wake up. That’s why my parents gave me the English name Snow. I went to US in 2019 for my undergrad study. Boston was my destination due to the attractiveness of snow. I spent three years at Boston and then moved to Ann Arbor for graduate study. People hate the long winter here, but I am looking forward to it! 
 
 
-## Mary Silvio
+## Mary Silvio {-}
 
 <center>
 
@@ -62,7 +62,7 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 
 >I have experience working in Chemical Manufacturing, Engineering Research, and Higher Education. Outside of school, I love going to SoulCycle, going on walks with friends, watching Detroit sports, trying new coffee shops, and cooking! It is my dream to be an analyst by day, and cycling instructor by night.
 
-## Ziye Wang
+## Ziye Wang {-}
 
 <center>
 
@@ -70,12 +70,12 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 
 </center>
 
->My name is Ziye Wang, from Beijing, China. I graduated from the Central University of Finance and Economics in China, majoring in Financial Engineering. After graduation, I joined Capgemini Invent as an associate consultant, focused on auto and digital transformation.
+>My name is Ziye Wang, from Beijing, China. I graduated from the Central University of Finance and Economics in China, majoring in Financial Engineering.After graduation, I joined Capgemini Invent as an associate consultant, focused on auto and digital transformation.
 
 >Something interesting about me I'd like to share with you: 
-I like drinking more than I like soup;
-I have 3 cute little nephews and my favorite thing to do on weekends is to play with my little nephew;
-I'm a Cancer girl but I'm more of a Leo;
-I lost weight for 5 years but never succeeded.
+I like drinking more than I like soup
+I have 3 cute little nephews and my favorite thing to do on weekends is to play with my little nephew
+I'm a Cancer girl but I'm more of a Leo
+I lost weight for 5 years but never succeeded
 
 >I'm very happy to be part of the Ross community. Hopefully our work will be helpful to everyone.

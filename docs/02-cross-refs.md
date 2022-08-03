@@ -1,4 +1,3 @@
-
 # Why Choose the MBAn Program at Ross? {-}
 
 ## Program Value

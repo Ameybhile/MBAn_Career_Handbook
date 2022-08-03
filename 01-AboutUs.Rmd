@@ -1,4 +1,3 @@
-
 # About Us {-}
 
 We are Team Keep Rolling, a group of MBAn students in the first-ever year of this new program! We chose this name to describe us because we went into this semester with the plan to never give up, continue to be creative and bring our ideas together for success!
@@ -71,17 +70,12 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 
 </center>
 
->My name is Ziye Wang, from Beijing, China. I graduated from the Central University of Finance and Economics in China, majoring in Financial Engineering.After graduation, I joined Capgemini Invent as an associate consultant, focused on auto and digital transformation.
+>My name is Ziye Wang, from Beijing, China. I graduated from the Central University of Finance and Economics in China, majoring in Financial Engineering. After graduation, I joined Capgemini Invent as an associate consultant, focused on auto and digital transformation.
 
 >Something interesting about me I'd like to share with you: 
-I like drinking more than I like soup
-I have 3 cute little nephews and my favorite thing to do on weekends is to play with my little nephew
-I'm a Cancer girl but I'm more of a Leo
-I lost weight for 5 years but never succeeded
+I like drinking more than I like soup;
+I have 3 cute little nephews and my favorite thing to do on weekends is to play with my little nephew;
+I'm a Cancer girl but I'm more of a Leo;
+I lost weight for 5 years but never succeeded.
 
 >I'm very happy to be part of the Ross community. Hopefully our work will be helpful to everyone.
-
-
-
-
-

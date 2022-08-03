@@ -2,7 +2,7 @@ bookdown::bs4_book:
   css: style.css
   theme:
       bootswatch: litera
-  repo: https://github.com/rstudio/bookdown-demo
+      primary: "#00274C"
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
