@@ -10,13 +10,6 @@ machine-learning-17-1
 business-case-problems-12-1
 behavioral-questions-13-1
 list-of-important-topics-for-the-interview
-<<<<<<< HEAD
-a-section
-sponsorship
-h1b-process
-resources
-=======
->>>>>>> 2cd9ddcb3262b870cf2b30959cf563816f2f64c0
 resume-preparation-process
 whats-in-your-toolbox
 what-resources-does-oym-provide
