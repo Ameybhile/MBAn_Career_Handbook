@@ -1,4 +1,4 @@
-# About Us
+# About Us {-}
 
 We are Team Keep Rolling, a group of MBAn students in the first-ever year of this new program! We chose this name to describe us because we went into this semester with the plan to never give up, continue to be creative and bring our ideas together for success!
 
