@@ -48,7 +48,24 @@ The most brilliant data scientists won’t be able to affect any change if they 
 * Data Scientist Manager Level 2	-  $180,000–$210,000 (supervises 4-9 people)			
 * Data Scientist Manager Level 3	-  $210,000–$275,000 (supervises 10+ people)
 
-## Admission timeline for these roles {-}
+## Admission timeline for university recruiting {-}
+> July to October is high time to start: Some say companies have more headcounts at the beginning of each year — that’s just not true for university recruiting. Most new grads get hired in the Fall (August to December), much fewer next Spring. Apply early, even if you need to get ready later!
+
+Every year around August, you’ll start to see openings with “New Grad”, “University Grad”, “Masters/PhD Graduate”, etc. in job titles. Take advantage of them if you’re a current student. University recruiting is special in several regards:
+
+* Companies don’t expect you to start right away. If you’re 3+ months away from graduating, you likely won’t be considered for “normal” positions. Only to new grad roles can you apply more than half a year before you start. (Data points: Recruiters at Waymo and Amex reached out to me in June 2021. When I told them I graduate in May 2022, they said they’d only consider those starting soon-ish.)
+ * Most companies don’t have a new grad track for DS. Usually, only big tech companies (e.g., Meta, Google, Uber, Microsoft, Robinhood, TikTok, DoorDash, Adobe, Pinterest, Zoom, PayPal, NVIDIA), established startups (e.g., Figma, Quora, Faire, Nuro), some hedge funds (e.g., Two Sigma, which hires both DS and quants), and consulting companies (BCG GAMMA, McKinsey) do. A bit to my surprise, Apple, Amazon, and Airbnb don’t really hire new grad DS and Lyft seems to fill new grad roles exclusively with return interns. I don’t remember if Stripe did or not. By contrast, far more companies hire new grad software engineers or machine learning engineers.
+ * The hiring bar is different. You’re expected to only have school and internship experience; your resume and performance are compared to other students. So for students, university recruiting may be the path of least resistance.
+ 
+### Timeline based on company type {-}
+
+
+<center>
+
+![](Images/jobstimeline.png){width=90%}
+
+</center>
+
 
 ## Components of a Data Science interview porcess {-}
 

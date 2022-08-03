@@ -3,6 +3,13 @@
 ** page currently under construction, come back soon!**  
 
 * https://365datascience.com/career-advice/career-guides/data-scientist-2021/
+* https://365datascience.com/career-advice/career-guides/data-science-consulting-companies/
+* https://medium.com/data-science-insider/160-data-science-interview-questions-14dbd8bf0a08
+* https://productmanagerhq.com/what-is-a-product-manager/
+* https://business.wisc.edu/news/what-is-a-product-manager/
+* https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575
+* 
+
 
 
 ## Hello bookdown {-}
