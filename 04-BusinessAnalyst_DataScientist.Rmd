@@ -5,7 +5,7 @@
 > You have data. To use this data to inform your decision-making, it needs to be relevant, well-organized, and preferably digital. Once your data is coherent, you proceed with analyzing it and creating dashboards and reports to understand your business’s performance better. Then you set your sights on the future and start generating predictive analytics. With predictive analytics, you assess potential future scenarios and predict consumer behavior in creative ways.
 
 
-## What does he do? {-}
+## What do they do? {-}
 
 * Find patterns and trends in datasets to uncover insights
 * Create algorithms and data models to forecast outcomes
