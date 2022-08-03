@@ -119,3 +119,13 @@ During the behavioral stage, articulating yourself using elements of your resume
 For example, some companies may prefer a candidate who is highly independent and requires little to no interaction. The interviewer will scan through your resume and ask how you had worked in your previous companies and your preferred working method. You will have an understanding that they require an independent employee and can draw out past experiences where you were independent.
 
 
+### Important links
+
+Resource for finding the most important topics for data science interviews -
+
+*https://www.stratascratch.com/blog/314-resources-for-data-science-fundamentals/
+*https://towardsdatascience.com/the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8
+*https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions
+*https://brainstation.io/career-guides/data-science-interview-questions
+
+
