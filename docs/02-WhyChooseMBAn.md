@@ -39,8 +39,19 @@ Michigan Ross places a priority upon the job search for OYM students. Over 500 j
 ### Career Development Office {-}
 The Career Development Office (CDO) employs staff and peer coaches to assist students in finding their dream job. They have workshops throughout the semester, some built into the curriculum of current courses.
 
+The MBAn Program has its very own MBAn career coach who is focused on developing relationships with companies to recruit MBAn students, along with supporting students from this program preparing and going through the recruitment process. Currently, John Goebel serves this role and can be reached at jgoeb@umich.edu.
+
+[View the CDO website here.](https://sites.google.com/umich.edu/cdo-specialtymasters/home)  
 
 
 ### Other Ross Resources {-}
+- Corporate Presentations
+- Workshops
+- Career Exploration Activities
+- Networking Hours
+- On and Off Campus Interview Opportunities
+- Resume and Linkedin Reviews
+- Mock Interviews
+- [Career Clubs](https://michiganross.umich.edu/graduate/master-of-business-analytics/student-experience/clubs-and-involvement)  
 
 ## Long-Term Gains {-}
