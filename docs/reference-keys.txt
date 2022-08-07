@@ -1,7 +1,1 @@
-coding-38-1
-statistics-21-1
-machine-learning-17-1
-business-case-problems-12-1
-behavioral-questions-13-1
-list-of-important-topics-for-the-interview
 a-section

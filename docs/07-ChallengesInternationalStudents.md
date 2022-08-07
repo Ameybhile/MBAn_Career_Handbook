@@ -1,4 +1,4 @@
-# Maintaining legal residency for International students {-}
+# Challenges for International Students {-}
 ## F-1 Students {-}
 > Being an international student with an F-1 visa, this document will guide you to maintain a legal residency in the US while working off campus. Please keep in mind that any off-campus job for F-1 students must be allowed. Off-campus employment without the appropriate work permit would be viewed as a breach of your F-1 requirements. Losing one's legal immigration status in the United States, a potential deportation by the Department of Homeland Security, and extremely difficult future attempts to obtain a visa for entry into the United States would most likely be the results.
 
