@@ -1,12 +1,12 @@
 # Why Choose the MBAn Program at Ross? {-}
-**page under construction**  
-
+Being a brand new program at Ross, students are trailblazers in a new field of study and able to get unique opportunities and work closely with faculty as this One-Year Master's program is developed.
 
 - STEM developed program
 - Well respected institution
 - Collaboration with peers and faculty
 
 ## Program Value {-}
+With the field of Business Analytics and Data Sciences rapidly growing, the MBAn program is highly desireable and very new to the industry. This program will equip students with knowledge that has previously been taught on the job, and brings a huge advantage when recruiting. All companies have some level of need of analytics and puts the careers that will be explored in the book at high value.
 
 ## Coursework {-}
 The MBAn Program is structured into three semesters to be completed in a 10-month span.
