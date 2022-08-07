@@ -4,6 +4,11 @@
 
 > You have data. To use this data to inform your decision-making, it needs to be relevant, well-organized, and preferably digital. Once your data is coherent, you proceed with analyzing it and creating dashboards and reports to understand your business’s performance better. Then you set your sights on the future and start generating predictive analytics. With predictive analytics, you assess potential future scenarios and predict consumer behavior in creative ways.
 
+<center>
+
+![](Images/DS.png){width=70%}
+
+</center>
 
 ## What do they do? {-}
 
@@ -20,6 +25,14 @@
 Data scientists are often expected to form their own questions about the data, while data analysts might support teams that already have set goals in mind. A data scientist might also spend more time developing models, using machine learning, or incorporating advanced programming to find and analyze data.\
 Many data scientists can begin their careers as analysts or statisticians
 
+The below info graphic gives us a broad idea on types of Data scientist roles based on technical skills.
+
+
+<center>
+
+![](Images/DataScienceRoles.jpg)
+
+</center>
 
 ## Skills required for these roles {-}
 
@@ -53,8 +66,10 @@ The most brilliant data scientists won’t be able to affect any change if they 
 
 Every year around August, you’ll start to see openings with “New Grad”, “University Grad”, “Masters/PhD Graduate”, etc. in job titles. Take advantage of them if you’re a current student. University recruiting is special in several regards:
 
-* Companies don’t expect you to start right away. If you’re 3+ months away from graduating, you likely won’t be considered for “normal” positions. Only to new grad roles can you apply more than half a year before you start. (Data points: Recruiters at Waymo and Amex reached out to me in June 2021. When I told them I graduate in May 2022, they said they’d only consider those starting soon-ish.)
- * Most companies don’t have a new grad track for DS. Usually, only big tech companies (e.g., Meta, Google, Uber, Microsoft, Robinhood, TikTok, DoorDash, Adobe, Pinterest, Zoom, PayPal, NVIDIA), established startups (e.g., Figma, Quora, Faire, Nuro), some hedge funds (e.g., Two Sigma, which hires both DS and quants), and consulting companies (BCG GAMMA, McKinsey) do. A bit to my surprise, Apple, Amazon, and Airbnb don’t really hire new grad DS and Lyft seems to fill new grad roles exclusively with return interns. I don’t remember if Stripe did or not. By contrast, far more companies hire new grad software engineers or machine learning engineers.
+* Companies don’t expect you to start right away. If you’re 3+ months away from graduating, you likely won’t be considered for “normal” positions. Only to new grad roles can you apply more than half a year before you start.
+
+ * Most companies don’t have a new grad track for DS. Usually, only big tech companies (e.g., Meta, Google, Uber, Microsoft, Robinhood, TikTok, DoorDash, Adobe, Pinterest, Zoom, PayPal, NVIDIA), established startups (e.g., Figma, Quora, Faire, Nuro), some hedge funds (e.g., Two Sigma, which hires both DS and quants), and consulting companies (BCG GAMMA, McKinsey) do. 
+ 
  * The hiring bar is different. You’re expected to only have school and internship experience; your resume and performance are compared to other students. So for students, university recruiting may be the path of least resistance.
  
 ### Timeline based on company type {-}
@@ -136,13 +151,13 @@ During the behavioral stage, articulating yourself using elements of your resume
 For example, some companies may prefer a candidate who is highly independent and requires little to no interaction. The interviewer will scan through your resume and ask how you had worked in your previous companies and your preferred working method. You will have an understanding that they require an independent employee and can draw out past experiences where you were independent.
 
 
-### Important links
+### Important links {-}
 
 Resource for finding the most important topics for data science interviews -
 
-*https://www.stratascratch.com/blog/314-resources-for-data-science-fundamentals/
-*https://towardsdatascience.com/the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8
-*https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions
-*https://brainstation.io/career-guides/data-science-interview-questions
+* https://www.stratascratch.com/blog/314-resources-for-data-science-fundamentals/
+* https://towardsdatascience.com/the-ultimate-interview-prep-guide-for-your-next-dream-data-job-be4b2c7f73a8
+* https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions
+* https://brainstation.io/career-guides/data-science-interview-questions
 
 

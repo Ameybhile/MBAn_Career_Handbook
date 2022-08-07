@@ -7,6 +7,11 @@
 > They are the overseers of a company’s products and the technological innovation behind them, and the stewards of that innovation’s role in meeting the customers’ needs in the marketplace.
 
 
+<center>
+
+![](Images/PM.png){width=90%}
+
+</center>
 
 ## What do they do? {-}
 
@@ -26,6 +31,13 @@
 
 
 ## Skills required for these roles {-}
+
+<center>
+
+![](Images/PM_skills.jpeg){width=100%}
+
+</center>
+
 
 ### Communication Skills: {-} 
 > Product managers are the product champions and are responsible for guiding product ideas from start to finish.They should be able to communicate with different stakeholders (e.g., customers, product team members) in order to make sure they understand how their decisions will affect the product or business strategy. Communication skills help a product manager establish credibility, listen to their product team, and create a shared understanding of the product.
@@ -54,77 +66,72 @@
 * VP of product management	-  $190,000–$230,000 (supervises 9-12 PM)			
 * Chief product officer (CPO)	-  $210,000–$275,000 (supervises at company level)
 
-## Admission timeline for these roles {-}
+## Admission timeline based on company type {-}
+<center>
 
-## Components of a Product Management interview porcess {-}
+![](Images/jobstimeline.png){width=90%}
 
-### Coding (38%)
+</center>
 
-This will test your problem-solving skills and how you manipulate data using algorithms, SQL, etc. 
+## Components of a Product Management interview process {-}
+
+### Product Questions {-}
+
+Questions about product are possibly the most common in PM interviews, which shouldn’t come as a surprise! Even if you’re not overly technical, the best way to prepare is to thoroughly read through the description of the role you’re applying for, and try to find some resources (dev blogs, press releases etc) on the products you’ll be working with. Being able to demonstrate your previous experience or Product Management education will be invaluable here.
+
+* How would you prioritize resources when you have two important things to do but can’t do them both?
+* Describe a scenario which required you to say no to an idea or project.
+* How do you decide what and what not to build?
+* What is a product you currently use every day, why and how would you improve it?
+* There is a data point that indicates that there are more Uber drop-offs at the airport than pick-ups from the airport. Why is this the case and what would you do   within the product to change that?
+* How would you improve the functionality 10x of what it is now?
  
-The coding aspect of a Data Science Interview takes the highest percentage, at 38%. More than a third of your interview will be based on coding, which is normal as you’re interviewing for a Data Science position. 
 
-Coding questions aim to analyse and evaluate a candidate's proficiency with computer science and its fundamentals. It can cover the following topics:
+### Technical Questions {-}
 
-Data Structures: Arrays, Dictionary, Stack/Queues, Strings, Tree/Binary Tree, and more.
-Algorithms: Binary Search, Recursion, Sorting, and more.
-SQL: Constraints, Primary/Foreign Key, Join, and more
- 
+Very, rarely will you be asked any overly technical questions in a Product Manager interview. Unless you’re applying to be a Technical Product Manager, or you’re a few rounds in for a specific PM role which requires a higher tech skill set. In general, technical questions in PM interviews are designed to see how well you’d work with engineers, and to test your familiarity with the tech the company is working with.
 
-### Statistics (21%)
-
-This will test your understanding of statistics as a whole and how you have and can apply them within problem-solving tasks.
- 
-Statistics is an important element of Data Science. Statistics help Data Scientists analyse large and complex datasets. It is heavily used for Machine Learning in improving models. 
-
-Understanding popular statistical terminology and how it can be implemented within Data Science tasks will help you thrive as a Data Scientist. It can cover the following topics:
-
-Probability Distributions
-Hypothesis Testing
-Modeling
+* Our engineering teams are pretty used to employing x methodologies. What is your opinion of them? Have you used them in the past?
+* What is the importance of engineers and technical teams as stakeholders? How do you integrate them into the overall product vision?
+* Can you provide an example where a technical solution you or your team designed became a commercial product?
+* How do you ensure that market-oriented teams fully understand technical challenges?
+* When are Bayesian methods more appropriate than “Artificial Intelligence” techniques for predictive analytics?
 
  
-### Machine learning (17%) 
+### Analytical Questions {-}
 
-This will test your ability to understand the theory behind Machine Learning, how to build models, how it applies to a specific problem/task at hand, and how you can improve it. 
- 
-With the use of Machine Learning models in our day-to-day lives, it becomes an important aspect of Data Science and how we can continuously improve it to be implemented into businesses and more. 
+A Product Manager has to come ready with an analytical mind in order to succeed. Some companies may ask you questions designed to reveal how you think, and how you’d approach a problem. The key when being asked these questions is not to rush yourself.
 
-Data Scientists are known for solving problems and creating models, therefore during a Data Science interview, the interviewer will test your ability to build models, the overall workflow, and how to improve it. 
+*  many people are currently online in Europe?
+* How many windows are in New York City?
+* How many iPads are sold in the USA every year?
+* How much money is spent in the USA per year on GAS?
+* How would you go about finding out the number of red cars in China?
 
-It can cover the following topics:
+###  Product Management Questions {-}
+Product Management is different at every company, and every person approaches their craft differently. Gauging your understanding of the role helps the company to determine your culture fit for the PM team. If you walk in with a ‘CEO of the Product‘ mentality, and they’re looking for someone more humble and collaborative, you run the risk of being turned away. So just be yourself and be honest. If you’re the right PM for the team, they’ll see that straight away!
 
-Artificial Intelligence
-Model building, validations, and interpretations
-Types of Algorithms
-Use cases of Machine Learning
-Example questions would be:
-
-###  Business Case problems (12%) 
-This will test your understanding of technical knowledge and how it can be used to drive business and determine the right decision to make. 
- 
-The reason that data is so valuable is that it can give people a greater understanding of the data and it can help make important decisions. 
-
-Applying technical knowledge to business case scenarios will help the interviewer understand how you can improve and help grow the company using your skills. 
-
-It can cover the following topics:
-
-Performance and limitations of a product
-Business short-term and long-term goals
-Example questions would be:
+* What aspects of Product Management do you find the most exciting?
+* Tell me about a time when you had to build or motivate a team.
+* What do you think a day to day would be like for a Product Manager?
+* How do you think Product Managers interact with engineers?
+* How would you explain Product Management to a 5-year-old?
 
 
-### Behavioral questions (13%) 
+### Behavioral questions {-} 
 
-This will test your characteristics and determine if you are a good fit for the company. 
- 
-Although the majority of technical jobs require heavy hard skills, soft skills are just as important. Your soft skills will determine if you are the right fit for the role. 
+Seeing a list of skills is all well and good, but an interview gives a company a chance to gauge how you behave day to day. They want to know that you work well in high-pressure environments, that you’re able to influence without authority, and manage stakeholder expectations. If you’re asked about a situation you haven’t yet faced, instead of saying “I haven’t done that yet,” talk about how you would face it in future.
 
-During the behavioral stage, articulating yourself using elements of your resume to back your point will make you successful. 
+* Tell me about a challenging issue or challenge you took on
+* Tell me about how you interact with customers/users?
+* Talk about how you overcame product failures/challenges or poor feedback.
+* Tell me about a time you had to influence someone.
+* Tell me about a mistake you made and how you handled it.
 
-For example, some companies may prefer a candidate who is highly independent and requires little to no interaction. The interviewer will scan through your resume and ask how you had worked in your previous companies and your preferred working method. You will have an understanding that they require an independent employee and can draw out past experiences where you were independent.
+## List of important Books for the interview {-}
 
-## List of important topics for the interview
-
-
+* https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818
+* https://www.amazon.com/dp/0578740583/
+* https://www.amazon.com/Product-Manager-Interview-Questions-Answers/dp/0998120448
+* https://www.amazon.com/Decode-Conquer-4th-Lewis-Lin/dp/B09Q8WN1KS/
 

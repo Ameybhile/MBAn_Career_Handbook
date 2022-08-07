@@ -8,7 +8,9 @@
 * https://productmanagerhq.com/what-is-a-product-manager/
 * https://business.wisc.edu/news/what-is-a-product-manager/
 * https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575
-* 
+* https://medium.com/open-product-management/how-to-crush-your-product-management-interview-ultimate-guide-for-all-aspiring-pms-8c6172ed697c
+* https://productschool.com/blog/product-management-2/the-ultimate-list-product-manager-interview-questions/
+
 
 
 
