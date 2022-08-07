@@ -9,6 +9,7 @@
 ## Program Value {-}
 
 ## Coursework {-}
+The MBAn Program is structured into three semesters to be completed in a 10-month span.
 
 ### Summer Term {-}
 BA 500: Business Immersion  
@@ -28,13 +29,17 @@ MBAN 503: Decision Strategies
 
 ### Winter Term {-}
 Business Analytics Consulting Studio  
-Perscriptive Analytics  
+Prescriptive Analytics  
 Information Security, Privacy, and Ethics  
 Depth Electives (of your choice!)  
 
 ## Career Resources {-}
+Michigan Ross places a priority upon the job search for OYM students. Over 500 job postings are made available to OYM students each year, and 196 different companies hired OYM graduates in the past 3 years! The exposure along with support from staff are very advantageous aspects of this program.
 
 ### Career Development Office {-}
+The Career Development Office (CDO) employs staff and peer coaches to assist students in finding their dream job. They have workshops throughout the semester, some built into the curriculum of current courses.
+
+
 
 ### Other Ross Resources {-}
 
