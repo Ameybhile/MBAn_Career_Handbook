@@ -55,3 +55,4 @@ The MBAn Program has its very own MBAn career coach who is focused on developing
 - [Career Clubs](https://michiganross.umich.edu/graduate/master-of-business-analytics/student-experience/clubs-and-involvement)  
 
 ## Long-Term Gains {-}
+Beyond the hard skills as well as teamwork and leadership skills built during the program, the greatest advantage is joining one of the largest alumni networks in the world. The University of Michigan and Ross's specific alumni are critical connections when moving into the workforce. The community and relationships built on campus and beyond with UM grads can pay off greatly in the future.
