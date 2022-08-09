@@ -1,9 +1,15 @@
 # Our Team, Our Process {-}
-**page currently under construction -- come back soon!**
 
 One of the biggest objectives with building this page was coming together with new classmates to create something through a process new to us all. Throughout the last 7 weeks, we went from MBAn classmates to a team by employing agile strategies and teamwork skills built through MBAN 501. Our story and techniques are detailed in the following sections.
 
 ## Project Timeline {-}
+1. Team Charter
+2. Project Proposal
+3. GitHub Project Setup
+4. User Story Development
+5. Implementation
+6. Scope Change
+7. Finalizing Book
 
 ## Process for Work {-}
 As a team, we wrote a team charter to set basic rules and plan expectations for our work dynamic for the term. To collaborate effectively, we set up weekly meetings with different objectives to ensure we stayed on track. As a team, we had a strategic structure to our meetings to ensure everyone's expectations were met and each member was heard during discussions. We also set aside time to bond, talk about non-school related things and develop psychological safety within our team. When we couldn't meet together or had ideas during the week, we used Google Drive to jot them down, form to-do lists, and plan together. 
