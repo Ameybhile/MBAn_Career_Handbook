@@ -2,18 +2,68 @@
 **page currently under construction**  
 
 ## Who is a Consultant? {-}
+> Consultants, as “doctors” for businesses – bring in to diagnose the root cause of an issue, and then prescribe and implement treatments with the patient’s consent. They provide business advice on various topics including marketing, information technology, operational improvement, and corporate strategy.
+> Consultants, are strong problem-solvers with business acumen. They can lead the client through the process of completing a data-based analysis of their business problem and evaluating alternative courses of action. They can also leverage their firm’s collective knowledge and experience to bring extensive industry and functional knowledge to bear to solve the problem. 
+![](Images/Consultant-1.png){width=90%}
 
 ## What Do They Do? {-}
+> In short, consultants solve complex business problems using their expertise and knowledge in specific industries or functions. This could range from cutting costs, to growing sales, or evaluating a new market the client is considering entering.
+> Consultant usually follow the following steps to solve practical problems for companies:
+
+* Assessment of symptoms: A client knows they’ve got a business problem (such as declining revenue or a new competitor in their market. They turn to a consultant for help getting to the root of the problem as a sick patient would turn to a doctor. 
+
+* Diagnosis: The consultant will assess the client’s business performance, taking into account similar problems they’ve seen at clients in the past, like a doctor would check their patient’s symptoms against known illnesses.
+* Prescription: The consultant will recommend a course of action to improve revenues or meet a competitive threat much like a doctor would tell their patient what’s wrong with them and prescribe medicine or recommend a medical procedure.
+* Bedside manner: The consultant has the experience to steer a client to the right course of action as a doctor would advise a nervous patient.
+* Follow-up care: The consultant will provide the client with a step-by-step process that will improve their business results much like a doctor would provide a patient with the steps necessary to regain their health.
+
+![](Images/Consultant-2.png){width=90%}
 
 ## Skills Required for this Role {-}
+> The skills required to be a professional consultant will vary depending on the industry and the consulting role, but the core skills are probably the following
+
+### Creative thinking {-} 
+> Creativity is a top priority in fields like art, writing, graphic design and food. Other industries may not seem like they would prioritize creative thinking, but the definition is broader than just producing art. Creative thinking gives people ideas that go beyond the standard and normally accepted ways of approaching the business of the industry. It encourages brainstorming and listening to ideas from all kinds of people.
+
+### Thinking conceptually and practically {-}  
+> The client requires the consultant to give them recommendations that are not only in line with the company's business processes and industry norms, but also those that can be implemented and can add value to the company's business.Conceptual thinking suggests you are visionary and innovative. You may have a strong sense of intuition, or the ability to coax ideas from people who have a difficult time finding the words for abstract concepts. You might ask provocative questions in a group brainstorming session to help others think conceptually and formulate inspirational touchstones for the company to believe in.
+
+### Fast-Learning {-} 
+> The clients that consultants deal with during their career are from different industries and their problems and the external or internal environment they are in will be different. A professional consultant needs to be able to quickly grasp all the information about the company's industry, the company's business and quickly find out the current core problems of the company.
+
+### Problem-solving {-} 
+> You may be called in to consult when permanent employees need additional guidance or expertise. Your role may often involve problem-solving, possibly without a great deal of advance information on issues you might be presented with. Depending on the type of consultant you are, you may be responsible for conflict resolution among employees, assisting in the creation of a business plan for a self-employed man or woman, analyzing bookkeeping practices of a company or providing training in a variety of fields.
+> Your ability to listen carefully to the concerns the employees present to you and react quickly and thoughtfully to help propose solutions may be among the most valuable skills you can possess.
+
+### Communicating clearly and empathetically {-} 
+> Once you have some solutions for a company’s problems, the recipients should value your ability to communicate those answers clearly, concisely and with empathy. You show empathy by demonstrating a willingness to hear how a problem is affecting the employees personally, and not just the bottom line from a financial or production standpoint. 
+For example, if your consultancy is focused on improving efficiency in a restaurant, the cooks, servers, hostesses and kitchen workers will be the ones to carry out your suggestions. When you can show kindness and understanding while clearly outlining the changes those workers need to make, they are more likely to respond favorably and accept the work they should do.
+
+### Collaboration with all job levels {-} 
+> As a consultant, you may be hired by a company’s board, senior management or a specific department within a company. It will be useful to have a sense of confidence when working with both stakeholders and employees who will carry out a plan. Developing poise, politeness, friendliness, excellent listening skills and public speaking skills will serve you well in any circumstance.
+
+### Organization and time management {-} 
+> When a company hires a consultant to help with a restructuring or a concern, their time will be just as valuable as yours. Meetings are likely an inevitable part of the process, but you can show respect for their time by conducting meetings with a sense of brevity and efficiency. You could work with people in advance to prepare an agenda and be polite but firm in your attempts to keep a meeting on task.
+You could suggest limiting the meetings to necessary employees only, especially for preliminary work where you define the scope of your consultancy project. Prepare for meetings well in advance and have any electronic presentations and documents easily accessible so you can give your suggestions with confidence and avoid delays.
 
 ## Salary with Years of Experience: {-}
 
+> Based on the Consultant Salary Guide, the latest information on management consulting salaries for 2022, Consultant salaries will vary by position and experience.
+
+>For entry-level hires salaries are about $83,500 on average at the top tier firms. Performance bonuses are about $15,775 on average, with a $5,000 signing bonus.
+
+>Salaries for MBA hires (and consultants with a few years’ experience) are about $149,000 on average at top tier firms. These hires can earn a performance bonus of about $37,000 on average, with a $25,000 signing bonus.
+
+>For project leaders(senior consultant or managers), salaries are about $175,000 on average at top tier firms. They also earn performance bonuses of up to $80,000 and profit-sharing opportunities of $28,000-$30,000. These consultants take home a total amount of $250,000- $300,000.
+
+>There are also higher-level salaries for top consultants in these firms. When you get to this level, you essentially become a shareholder/partner in the firm. Base salaries for high-level personnel range between $570,000-$1,000,000, with performance bonuses of up to$300,000 varying by firm.
+
+
 ## Recruitment Process in Consulting {-}
->Starting with the 2023 fall recruiting, Consulting Giants, such as MBB, have moved up their fall recruiting round 1 deadline from September in previous years to July. So we, as candidates, must start preparing in advance.\
+> Starting with the 2023 fall recruiting, Consulting Giants, such as MBB, have moved up their fall recruiting round 1 deadline from September in previous years to July. So we, as candidates, must start preparing in advance.\
 Usually, when you submit an online application for a position in the consulting, you will receive an online assessment if your resume passes the initial screening, but some companies issue OTs to all candidates. After that, there will be one round of HR Pre-Talk and two or three rounds of case interview. If you pass all of them, you will receive an offer!
 
->2023/2022 Consulting Company-North American Campus Recruiting Application and Interview Schedule (not exhausted):
+> 2023/2022 Consulting Company-North American Campus Recruiting Application and Interview Schedule (not exhausted):
 
 ### McKinsey-2023: {-}
 * Online Application deadlines:
