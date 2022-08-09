@@ -13,7 +13,7 @@
 
 </center>
 
-## What do they do? {-}
+## What Do They Do? {-}
 
 * Identify a problem - Product managers assess the market and suggest ways to leverage their company’s resources to create a product that will solve a problem for customers.
 
@@ -57,7 +57,7 @@
 ### Prioritization Skills: {-}
 > Product managers need to be able to prioritize product features, requirements, and tasks in order of importance. This means that product managers must know which product feature will have the most impact on their customers or potential customers.
 
-## Salary with years of experience: {-}
+## Salary with Years of Experience: {-}
 
 * Associate product manager  - $80,000–$100,000 (0-3 years of experience)			
 * Product manager	- $110,000–$140,000 (4-8 years of experience)			
@@ -73,7 +73,7 @@
 
 </center>
 
-## Components of a Product Management Interview Process {-}
+## Components of the Product Management Interview Process {-}
 
 ### Product Questions {-}
 

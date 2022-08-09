@@ -10,7 +10,7 @@
 
 </center>
 
-## What do they do? {-}
+## What Do They Do? {-}
 
 * Find patterns and trends in datasets to uncover insights
 * Create algorithms and data models to forecast outcomes
@@ -82,7 +82,7 @@ Every year around August, you’ll start to see openings with “New Grad”, �
 </center>
 
 
-## Components of a Data Science Interview process {-}
+## Components of the Data Science Interview Process {-}
 
 ### Coding (38%) {-}
 
@@ -110,7 +110,7 @@ Hypothesis Testing
 Modeling
 
  
-### Machine learning (17%) {-}
+### Machine Learning (17%) {-}
 
 This will test your ability to understand the theory behind Machine Learning, how to build models, how it applies to a specific problem/task at hand, and how you can improve it. 
  
@@ -126,7 +126,7 @@ Types of Algorithms
 Use cases of Machine Learning
 Example questions would be:
 
-###  Business Case problems (12%) {-}
+###  Business Case Problems (12%) {-}
 This will test your understanding of technical knowledge and how it can be used to drive business and determine the right decision to make. 
  
 The reason that data is so valuable is that it can give people a greater understanding of the data and it can help make important decisions. 
@@ -140,7 +140,7 @@ Business short-term and long-term goals
 Example questions would be:
 
 
-### Behavioral questions (13%) {-}
+### Behavioral Questions (13%) {-}
 
 This will test your characteristics and determine if you are a good fit for the company. 
  
@@ -151,7 +151,7 @@ During the behavioral stage, articulating yourself using elements of your resume
 For example, some companies may prefer a candidate who is highly independent and requires little to no interaction. The interviewer will scan through your resume and ask how you had worked in your previous companies and your preferred working method. You will have an understanding that they require an independent employee and can draw out past experiences where you were independent.
 
 
-### Important links {-}
+### Important Links {-}
 
 Resource for finding the most important topics for data science interviews -
 
