@@ -66,7 +66,7 @@ I was born in 1996 and grew up in South Korea. I went to Michigan State Universi
 
 <center>
 
-![](Images/Siye.jpg){width=50%}
+![](Images/Ziye.jpg){width=50%}
 
 </center>
 
