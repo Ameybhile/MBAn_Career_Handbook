@@ -24,6 +24,7 @@ To divide work, we knew we wanted to leverage the unique strengths of each indiv
 
 ## Handling Challenges and Change {-}
 When facing challenges in the course of the project, our team employed a few strategies:   
+
 - Go to office hours and utilize professors as resources  
 - Google ideas from other people that had the same issues and struggles  
 - Look at other teams' work as inspiration to challenge us  
@@ -33,7 +34,8 @@ When facing challenges in the course of the project, our team employed a few str
 Working with RMarkdown and GitHub for this project was a complex endeavor as all members of our team had varying levels of experience with these programs. We relied on using github and RMarkdown documentation and cheat sheets along the way as a reference, as well as YouTube videos online. Most essential was peer learning, by looking at classmates websites and asking them for ideas or help. Once some members of the team were more familiar with the process, they aided the other members in learning and practicing using these programs. Our team scheduled time to do Git processes in person so we could ask questions as we went and communicate thoroughly as we took turns pushing our content to avoid issues. If we were stuck, we effectively used office hours to ask our professor questions to alleviate sticky points.
 
 ## Future Advice {-}
-As we reflect upon the semester, we highly recommend teams ensure they stay in sync, be responsive and responsible for their work. In addition, plan timelines for their projects including all necessary deliverables and meetings to ensure productivity. Some other ideas we have for teams working on projects similar to our experience include:  
+As we reflect upon the semester, we highly recommend teams ensure they stay in sync, be responsive and responsible for their work. In addition, plan timelines for their projects including all necessary deliverables and meetings to ensure productivity. Some other ideas we have for teams working on projects similar to our experience include: 
+
 - Bring snacks to meetings  
 - Get started EARLY!  
 - Plan a timeline that can be flexible as scope changes and other factors come up  
