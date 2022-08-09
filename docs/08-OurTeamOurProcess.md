@@ -1,9 +1,15 @@
 # Our Team, Our Process {-}
-**page currently under construction -- come back soon!**
 
 One of the biggest objectives with building this page was coming together with new classmates to create something through a process new to us all. Throughout the last 7 weeks, we went from MBAn classmates to a team by employing agile strategies and teamwork skills built through MBAN 501. Our story and techniques are detailed in the following sections.
 
 ## Project Timeline {-}
+1. Team Charter
+2. Project Proposal
+3. GitHub Project Setup
+4. User Story Development
+5. Implementation
+6. Scope Change
+7. Finalizing Book
 
 ## Process for Work {-}
 As a team, we wrote a team charter to set basic rules and plan expectations for our work dynamic for the term. To collaborate effectively, we set up weekly meetings with different objectives to ensure we stayed on track. As a team, we had a strategic structure to our meetings to ensure everyone's expectations were met and each member was heard during discussions. We also set aside time to bond, talk about non-school related things and develop psychological safety within our team. When we couldn't meet together or had ideas during the week, we used Google Drive to jot them down, form to-do lists, and plan together. 
@@ -18,6 +24,7 @@ To divide work, we knew we wanted to leverage the unique strengths of each indiv
 
 ## Handling Challenges and Change {-}
 When facing challenges in the course of the project, our team employed a few strategies:   
+
 - Go to office hours and utilize professors as resources  
 - Google ideas from other people that had the same issues and struggles  
 - Look at other teams' work as inspiration to challenge us  
@@ -27,7 +34,8 @@ When facing challenges in the course of the project, our team employed a few str
 Working with RMarkdown and GitHub for this project was a complex endeavor as all members of our team had varying levels of experience with these programs. We relied on using github and RMarkdown documentation and cheat sheets along the way as a reference, as well as YouTube videos online. Most essential was peer learning, by looking at classmates websites and asking them for ideas or help. Once some members of the team were more familiar with the process, they aided the other members in learning and practicing using these programs. Our team scheduled time to do Git processes in person so we could ask questions as we went and communicate thoroughly as we took turns pushing our content to avoid issues. If we were stuck, we effectively used office hours to ask our professor questions to alleviate sticky points.
 
 ## Future Advice {-}
-As we reflect upon the semester, we highly recommend teams ensure they stay in sync, be responsive and responsible for their work. In addition, plan timelines for their projects including all necessary deliverables and meetings to ensure productivity. Some other ideas we have for teams working on projects similar to our experience include:  
+As we reflect upon the semester, we highly recommend teams ensure they stay in sync, be responsive and responsible for their work. In addition, plan timelines for their projects including all necessary deliverables and meetings to ensure productivity. Some other ideas we have for teams working on projects similar to our experience include: 
+
 - Bring snacks to meetings  
 - Get started EARLY!  
 - Plan a timeline that can be flexible as scope changes and other factors come up  
