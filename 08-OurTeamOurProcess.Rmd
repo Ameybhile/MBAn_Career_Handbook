@@ -7,12 +7,22 @@ One of the biggest objectives with building this page was coming together with n
 
 
 ## Remaining Agile {-}
-
+To incorporate the Agile principles we were learning from the class into our work, we thought intentionally about how we were approaching our project. We adapted as requirements changed in class and shifted to prioritize satisfying the consumer by focusing on user stories developed in class and modifying our scope based on peer feedback. At the onset, we jumped into implementation after basic blueprinting as opposed to over planning the details of our project. We coped with changes in scope by taking a can-do attitude and kept rolling. For each meeting, we established a clear objective to increase efficiency, as well as met face-to-face whenever possible. We broke work down into smaller goals to reach every week like a scrum, but kept the larger picture in the back of our heads as we went. As our book began to fill, we cut out repetitive sections to focus most on what was important and keep the project simple as a whole. In the end, this agile approach allowed us to accomplish far more during this short timeline than we originally thought.
 
 ## Work Distribution {-}
-
+To divide work, we knew we wanted to leverage the unique strengths of each individual on our team. We began by getting to know everyone's background and skill set during our team charter formation, and then learned more about our interests through discussion and team bonding. Then, we were able to distribute work based on what each of us was most interested in and paired well with our skills instead of assigning work to each member arbitrarily. This allowed each member to put their best efforts toward our project and feel confident in their work. 
 
 ## Working with Git & RMarkdown {-}
-
+Working with RMarkdown and GitHub for this project was a complex endeavor as all members of our team had varying levels of experience with these programs. We relied on using github and RMarkdown documentation and cheat sheets along the way as a reference, as well as YouTube videos online. Most essential was peer learning, by looking at classmates websites and asking them for ideas or help. Once some members of the team were more familiar with the process, they aided the other members in learning and practicing using these programs. Our team scheduled time to do Git processes in person so we could ask questions as we went and communicate thoroughly as we took turns pushing our content to avoid issues. If we were stuck, we effectively used office hours to ask our professor questions to alleviate sticky points.
 
 ## Future Advice {-}
+As we reflect upon the semester, we highly recommend teams ensure they stay in sync, be responsive and responsible for their work. In addition, plan timelines for their projects including all necessary deliverables and meetings to ensure productivity. Some other ideas we have for teams working on projects similar to our experience include:
+- Bring snacks to meetings  
+- Get started EARLY!  
+- Plan a timeline that can be flexible as scope changes and other factors come up  
+- Have engaged, open attitudes  
+- Be receptive to feedback, and give meaningful feedback to others  
+- Bond as a group so you create a positive team culture and collaborate creatively   
+- Focus on fostering psychological safety  
+- Work together and support you teammates when individuals face challenging goals  
+- Set aside personal opinions if it doesn't help the team accomplish the goal  
