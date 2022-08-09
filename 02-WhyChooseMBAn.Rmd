@@ -1,5 +1,11 @@
-# Why Choose the MBAn Program at Ross? {-}
+# Why Choose the Ross MBAn? {-}
 Being a brand new program at Ross, students are trailblazers in a new field of study and able to get unique opportunities and work closely with faculty as this One-Year Master's program is developed.
+
+<center>
+
+![MBAn Class of 2023](Images/classpic.jpg){width=100%}
+
+</center>
 
 - STEM developed program
 - Well respected institution
