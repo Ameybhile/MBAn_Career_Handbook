@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-a-section
-challenges-for
-=======
->>>>>>> 09c793220dfe0f98e2c78d6962c6ffdaa77b655e
