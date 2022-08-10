@@ -11,5 +11,6 @@
 * https://medium.com/open-product-management/how-to-crush-your-product-management-interview-ultimate-guide-for-all-aspiring-pms-8c6172ed697c
 * https://productschool.com/blog/product-management-2/the-ultimate-list-product-manager-interview-questions/
 * https://michiganross.umich.edu/graduate/master-of-business-analytics/curriculum
-
+* https://internationalcenter.umich.edu/students/f1-students
+* https://internationalcenter.umich.edu/students/j1-students
 
