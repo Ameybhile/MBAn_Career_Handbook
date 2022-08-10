@@ -23,27 +23,27 @@
 ## Skills Required for this Role {-}
 > The skills required to be a professional consultant will vary depending on the industry and the consulting role, but the core skills are probably the following
 
-### Creative thinking {-} 
+### Creative Thinking {-} 
 > Creativity is a top priority in fields like art, writing, graphic design and food. Other industries may not seem like they would prioritize creative thinking, but the definition is broader than just producing art. Creative thinking gives people ideas that go beyond the standard and normally accepted ways of approaching the business of the industry. It encourages brainstorming and listening to ideas from all kinds of people.
 
-### Thinking conceptually and practically {-}  
+### Thinking Conceptually and Practically {-}  
 > The client requires the consultant to give them recommendations that are not only in line with the company's business processes and industry norms, but also those that can be implemented and can add value to the company's business.Conceptual thinking suggests you are visionary and innovative. You may have a strong sense of intuition, or the ability to coax ideas from people who have a difficult time finding the words for abstract concepts. You might ask provocative questions in a group brainstorming session to help others think conceptually and formulate inspirational touchstones for the company to believe in.
 
 ### Fast-Learning {-} 
 > The clients that consultants deal with during their career are from different industries and their problems and the external or internal environment they are in will be different. A professional consultant needs to be able to quickly grasp all the information about the company's industry, the company's business and quickly find out the current core problems of the company.
 
-### Problem-solving {-} 
+### Problem-Solving {-} 
 > You may be called in to consult when permanent employees need additional guidance or expertise. Your role may often involve problem-solving, possibly without a great deal of advance information on issues you might be presented with. Depending on the type of consultant you are, you may be responsible for conflict resolution among employees, assisting in the creation of a business plan for a self-employed man or woman, analyzing bookkeeping practices of a company or providing training in a variety of fields.
 > Your ability to listen carefully to the concerns the employees present to you and react quickly and thoughtfully to help propose solutions may be among the most valuable skills you can possess.
 
-### Communicating clearly and empathetically {-} 
+### Communicating Clearly and Empathetically {-} 
 > Once you have some solutions for a company’s problems, the recipients should value your ability to communicate those answers clearly, concisely and with empathy. You show empathy by demonstrating a willingness to hear how a problem is affecting the employees personally, and not just the bottom line from a financial or production standpoint. 
 For example, if your consultancy is focused on improving efficiency in a restaurant, the cooks, servers, hostesses and kitchen workers will be the ones to carry out your suggestions. When you can show kindness and understanding while clearly outlining the changes those workers need to make, they are more likely to respond favorably and accept the work they should do.
 
-### Collaboration with all job levels {-} 
+### Collaboration with All Job Levels {-} 
 > As a consultant, you may be hired by a company’s board, senior management or a specific department within a company. It will be useful to have a sense of confidence when working with both stakeholders and employees who will carry out a plan. Developing poise, politeness, friendliness, excellent listening skills and public speaking skills will serve you well in any circumstance.
 
-### Organization and time management {-} 
+### Organization and Time Management {-} 
 > When a company hires a consultant to help with a restructuring or a concern, their time will be just as valuable as yours. Meetings are likely an inevitable part of the process, but you can show respect for their time by conducting meetings with a sense of brevity and efficiency. You could work with people in advance to prepare an agenda and be polite but firm in your attempts to keep a meeting on task.
 You could suggest limiting the meetings to necessary employees only, especially for preliminary work where you define the scope of your consultancy project. Prepare for meetings well in advance and have any electronic presentations and documents easily accessible so you can give your suggestions with confidence and avoid delays.
 
