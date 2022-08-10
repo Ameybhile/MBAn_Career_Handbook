@@ -1,6 +1,6 @@
 # Business Analyst/Data Scientist {-}
 
-## Who exactly is a Data person? {-}
+## Who Exactly is a Data Person? {-}
 
 > You have data. To use this data to inform your decision-making, it needs to be relevant, well-organized, and preferably digital. Once your data is coherent, you proceed with analyzing it and creating dashboards and reports to understand your business’s performance better. Then you set your sights on the future and start generating predictive analytics. With predictive analytics, you assess potential future scenarios and predict consumer behavior in creative ways.
 
@@ -10,7 +10,7 @@
 
 </center>
 
-## What do they do? {-}
+## What Do They Do? {-}
 
 * Find patterns and trends in datasets to uncover insights
 * Create algorithms and data models to forecast outcomes
@@ -19,7 +19,7 @@
 * Deploy data tools such as Python, R, SAS, or SQL in data analysis
 * Stay on top of innovations in the data science field
 
-## Business analyst vs data scientist: What’s the difference? {-}
+## Business Analyst vs Data Scientist: What’s the Difference? {-}
 
 > The work of Business analysts and data scientists can seem similar—both find trends or patterns in data to reveal new ways for organizations to make better decisions about operations. But data scientists tend to have more responsibility and are generally considered more senior than data analysts.\
 Data scientists are often expected to form their own questions about the data, while data analysts might support teams that already have set goals in mind. A data scientist might also spend more time developing models, using machine learning, or incorporating advanced programming to find and analyze data.\
@@ -34,25 +34,25 @@ The below info graphic gives us a broad idea on types of Data scientist roles ba
 
 </center>
 
-## Skills required for these roles {-}
+## Skills Required for These Roles {-}
 
-### Programming languages: {-} 
+### Programming Languages: {-} 
 Data scientists can expect to spend time using programming languages to sort through, analyze, and otherwise manage large chunks of data. Popular programming languages for data science include: Python, R, SQL,SAS
 
-### Data visualization: {-}
+### Data Visualization: {-}
 Being able to create charts and graphs is a significant part of being a data scientist. Familiarity with the following tools should prepare you to do the work:
 Tableau, PowerBI, Excel
 
-### Machine learning: {-} 
+### Machine Learning: {-} 
 Incorporating machine learning and deep learning into your work as a data scientist means continuously improving the quality of the data you gather and potentially being able to predict the outcomes of future datasets. A course in machine learning can get you started with the basics.
 
-### Big data: {-} 
+### Big Data: {-} 
 Some employers may want to see that you have some familiarity grappling with big data. Some of the software frameworks used to process big data include Hadoop and Apache Spark.
 
 ### Communication: {-}
 The most brilliant data scientists won’t be able to affect any change if they aren’t able to communicate their findings well. The ability to share ideas and results verbally and in written language is an often-sought skill in data scientists.
 
-## Salary with years of experience: {-}
+## Salary with Years of Experience: {-}
 
 * Data Scientist Level 1  - $85,000–$110,000 (0-3 years of experience)			
 * Data Scientist Level 2	- $120,000–$140,000 (4-8 years of experience)			
@@ -61,7 +61,7 @@ The most brilliant data scientists won’t be able to affect any change if they 
 * Data Scientist Manager Level 2	-  $180,000–$210,000 (supervises 4-9 people)			
 * Data Scientist Manager Level 3	-  $210,000–$275,000 (supervises 10+ people)
 
-## Admission timeline for university recruiting {-}
+## Admission Timeline for University Recruiting {-}
 > July to October is high time to start: Some say companies have more headcounts at the beginning of each year — that’s just not true for university recruiting. Most new grads get hired in the Fall (August to December), much fewer next Spring. Apply early, even if you need to get ready later!
 
 Every year around August, you’ll start to see openings with “New Grad”, “University Grad”, “Masters/PhD Graduate”, etc. in job titles. Take advantage of them if you’re a current student. University recruiting is special in several regards:
@@ -72,7 +72,7 @@ Every year around August, you’ll start to see openings with “New Grad”, �
  
  * The hiring bar is different. You’re expected to only have school and internship experience; your resume and performance are compared to other students. So for students, university recruiting may be the path of least resistance.
  
-### Timeline based on company type {-}
+### Timeline Based on Company Type {-}
 
 
 <center>
@@ -82,7 +82,7 @@ Every year around August, you’ll start to see openings with “New Grad”, �
 </center>
 
 
-## Components of a Data Science interview porcess {-}
+## Components of the Data Science Interview Process {-}
 
 ### Coding (38%) {-}
 
@@ -110,7 +110,7 @@ Hypothesis Testing
 Modeling
 
  
-### Machine learning (17%) {-}
+### Machine Learning (17%) {-}
 
 This will test your ability to understand the theory behind Machine Learning, how to build models, how it applies to a specific problem/task at hand, and how you can improve it. 
  
@@ -126,7 +126,7 @@ Types of Algorithms
 Use cases of Machine Learning
 Example questions would be:
 
-###  Business Case problems (12%) {-}
+###  Business Case Problems (12%) {-}
 This will test your understanding of technical knowledge and how it can be used to drive business and determine the right decision to make. 
  
 The reason that data is so valuable is that it can give people a greater understanding of the data and it can help make important decisions. 
@@ -140,7 +140,7 @@ Business short-term and long-term goals
 Example questions would be:
 
 
-### Behavioral questions (13%) {-}
+### Behavioral Questions (13%) {-}
 
 This will test your characteristics and determine if you are a good fit for the company. 
  
@@ -151,7 +151,7 @@ During the behavioral stage, articulating yourself using elements of your resume
 For example, some companies may prefer a candidate who is highly independent and requires little to no interaction. The interviewer will scan through your resume and ask how you had worked in your previous companies and your preferred working method. You will have an understanding that they require an independent employee and can draw out past experiences where you were independent.
 
 
-### Important links {-}
+### Important Links {-}
 
 Resource for finding the most important topics for data science interviews -
 

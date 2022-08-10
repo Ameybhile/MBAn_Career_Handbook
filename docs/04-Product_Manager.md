@@ -13,7 +13,7 @@
 
 </center>
 
-## What do they do? {-}
+## What Do They Do? {-}
 
 * Identify a problem - Product managers assess the market and suggest ways to leverage their company’s resources to create a product that will solve a problem for customers.
 
@@ -30,7 +30,7 @@
 * Launch the product. Product managers work closely with the company’s marketing team to reach the right customers. 
 
 
-## Skills required for these roles {-}
+## Skills Required for These Roles {-}
 
 <center>
 
@@ -57,7 +57,7 @@
 ### Prioritization Skills: {-}
 > Product managers need to be able to prioritize product features, requirements, and tasks in order of importance. This means that product managers must know which product feature will have the most impact on their customers or potential customers.
 
-## Salary with years of experience: {-}
+## Salary with Years of Experience: {-}
 
 * Associate product manager  - $80,000–$100,000 (0-3 years of experience)			
 * Product manager	- $110,000–$140,000 (4-8 years of experience)			
@@ -66,14 +66,14 @@
 * VP of product management	-  $190,000–$230,000 (supervises 9-12 PM)			
 * Chief product officer (CPO)	-  $210,000–$275,000 (supervises at company level)
 
-## Admission timeline based on company type {-}
+## Admission Timeline Based on Company Type {-}
 <center>
 
 ![](Images/jobstimeline.png){width=90%}
 
 </center>
 
-## Components of a Product Management interview process {-}
+## Components of the Product Management Interview Process {-}
 
 ### Product Questions {-}
 
@@ -118,7 +118,7 @@ Product Management is different at every company, and every person approaches th
 * How would you explain Product Management to a 5-year-old?
 
 
-### Behavioral questions {-} 
+### Behavioral Questions {-} 
 
 Seeing a list of skills is all well and good, but an interview gives a company a chance to gauge how you behave day to day. They want to know that you work well in high-pressure environments, that you’re able to influence without authority, and manage stakeholder expectations. If you’re asked about a situation you haven’t yet faced, instead of saying “I haven’t done that yet,” talk about how you would face it in future.
 
@@ -128,7 +128,7 @@ Seeing a list of skills is all well and good, but an interview gives a company a
 * Tell me about a time you had to influence someone.
 * Tell me about a mistake you made and how you handled it.
 
-## List of important Books for the interview {-}
+## List of Important Books for the Interview {-}
 
 * https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818
 * https://www.amazon.com/dp/0578740583/
