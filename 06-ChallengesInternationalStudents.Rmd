@@ -4,7 +4,7 @@
 
 ### CPT {-}
 
-Curricular practical training(CPT) is working off campus during the program. Each semester, this work authorization is approved. This is for students who get an internship while enrolling full-time in the program.
+Curricular practical training (CPT) is working off campus during the program. Each semester, this work authorization is approved. This is for students who get an internship while enrolling full-time in the program.
 
   + Part-time VS Full-time
 

@@ -1,5 +1,4 @@
 # Consultant {-}
-**page currently under construction**  
 
 ## Who is a Consultant? {-}
 > Consultants, as “doctors” for businesses – bring in to diagnose the root cause of an issue, and then prescribe and implement treatments with the patient’s consent. They provide business advice on various topics including marketing, information technology, operational improvement, and corporate strategy.
