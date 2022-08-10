@@ -2,8 +2,12 @@
 
 > For an international student, this document will guide you to maintain a legal residency in the US while working off campus after graduation or during your study. Off-campus employment without the appropriate work permit would be viewed as a breach of your visa requirements. As a penalty, you may lose one's legal immigration status in the United States, cause a potential deportation by the Department of Homeland Security, and put you on a situation in which extremely difficult future attempts to obtain a visa for entry into the United States.
 
+<<<<<<< HEAD
 ## Types of student visa: F-1 vs J-1 {-}
 Who is paying for the schooling is a key factor in evaluating eligibility for a J1 or F1 status. If a student receives funding from personnel sources, external sources, OR a mix of the two, they are qualified for an F1 status. A J1 visa requires a significant or "substantive" amount of the funding to come from an outside source, such as a university or the government, in contrast to an F1 visa, which does not have this requirement.
+=======
+Curricular practical training (CPT) is working off campus during the program. Each semester, this work authorization is approved. This is for students who get an internship while enrolling full-time in the program.
+>>>>>>> 09c793220dfe0f98e2c78d6962c6ffdaa77b655e
 
 ### F-1 Students {-}
 Please keep in mind that any off-campus job for F-1 students must be allowed. To obtain a legal work permit, you must apply for CPT and OPT. There are other employment options, such as international organization employment, on-campus employment, and severe economic hardship employment. Nonetheless, only two options, CPT and OPT, will be discussed for F-1 status since our handbook mainly explored the most possible careers. If you want to see all options, [__click here__](https://internationalcenter.umich.edu/students/f1-students/employment-options).
