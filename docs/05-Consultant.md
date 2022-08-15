@@ -48,16 +48,18 @@ You could suggest limiting the meetings to necessary employees only, especially 
 
 ## Salary with Years of Experience: {-}
 
-> Based on the Consultant Salary Guide, the latest information on management consulting salaries for 2022, Consultant salaries will vary by position and experience.
+Based on the Consultant Salary Guide, the latest information on management consulting salaries for 2022, Consultant salaries will vary by position and experience.
 
->For entry-level hires salaries are about $83,500 on average at the top tier firms. Performance bonuses are about $15,775 on average, with a $5,000 signing bonus.
+<center>
 
->Salaries for MBA hires (and consultants with a few years’ experience) are about $149,000 on average at top tier firms. These hires can earn a performance bonus of about $37,000 on average, with a $25,000 signing bonus.
+**Position**             | Salary             | Bonus
+-------------------------| -------------------| ---------------
+**Entry-Level**          | $83,5000           | $5,000-$15,000
+**MBA Hires**            | $149,000           | $25,000-$37,000
+**Project Leader**       | $175,000           | $80,000-$110,000
+**Shareholder/Partner**  | $570,000-$1,000,000| $300,000+
 
->For project leaders(senior consultant or managers), salaries are about $175,000 on average at top tier firms. They also earn performance bonuses of up to $80,000 and profit-sharing opportunities of $28,000-$30,000. These consultants take home a total amount of $250,000- $300,000.
-
->There are also higher-level salaries for top consultants in these firms. When you get to this level, you essentially become a shareholder/partner in the firm. Base salaries for high-level personnel range between $570,000-$1,000,000, with performance bonuses of up to$300,000 varying by firm.
-
+</center>
 
 ## Recruitment Process in Consulting {-}
 
