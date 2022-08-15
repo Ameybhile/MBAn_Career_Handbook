@@ -20,8 +20,8 @@ The MBAn Program is structured into three semesters to be completed in a 10-mont
 ### Summer Term {-}
 BA 500: Business Immersion  
 MBAN 501: Software Teams and Project Management  
-MBAN 550: Introduction to Data Programming
-MBAN 551: Advanced Spreadsheet
+MBAN 550: Introduction to Data Programming  
+MBAN 551: Advanced Spreadsheet  
 
 ### Fall Term {-}
 MBAN 552: Probability and Statistics  
@@ -51,13 +51,13 @@ The MBAn Program has its very own MBAn career coach who is focused on developing
 
 
 ### Other Ross Resources {-}
-- Corporate Presentations
-- Workshops
-- Career Exploration Activities
-- Networking Hours
-- On and Off Campus Interview Opportunities
-- Resume and Linkedin Reviews
-- Mock Interviews
+- Corporate Presentations  
+- Workshops  
+- Career Exploration Activities  
+- Networking Hours  
+- On and Off Campus Interview Opportunities  
+- Resume and Linkedin Reviews  
+- Mock Interviews  
 - [Career Clubs](https://michiganross.umich.edu/graduate/master-of-business-analytics/student-experience/clubs-and-involvement)  
 
 ## Long-Term Gains {-}
