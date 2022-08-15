@@ -1,0 +1,64 @@
+# Why Choose the Ross MBAn? {-}
+Being a brand new program at Ross, students are trailblazers in a new field of study and able to get unique opportunities and work closely with faculty as this One-Year Master's program is developed.
+
+<center>
+
+![MBAn Class of 2023](Images/classpic.jpg){width=100%}
+
+</center>
+
+- STEM developed program
+- Well respected institution
+- Collaboration with peers and faculty
+
+## Program Value {-}
+With the field of Business Analytics and Data Sciences rapidly growing, the MBAn program is highly desireable and very new to the industry. This program will equip students with knowledge that has previously been taught on the job, and brings a huge advantage when recruiting. All companies have some level of need of analytics and puts the careers that will be explored in the book at high value.
+
+## Coursework {-}
+The MBAn Program is structured into three semesters to be completed in a 10-month span.
+
+### Summer Term {-}
+BA 500: Business Immersion  
+MBAN 501: Software Teams and Project Management  
+MBAN 550: Introduction to Data Programming
+MBAN 551: Advanced Spreadsheet
+
+### Fall Term {-}
+MBAN 552: Probability and Statistics  
+MBAN 553: Predictive Analytics  
+MBAN 554: Data Exploration and Visualization  
+MBAN 555: Data Architecture and Acquisition  
+MBAN 556: Unsupervised Learning  
+MBAN 557: Casual Inference Through Experimentation  
+MBAN 502: Managerial and Financial Accounting  
+MBAN 503: Decision Strategies  
+
+### Winter Term {-}
+Business Analytics Consulting Studio  
+Prescriptive Analytics  
+Information Security, Privacy, and Ethics  
+Depth Electives (of your choice!)  
+
+## Career Resources {-}
+Michigan Ross places a priority upon the job search for OYM students. Over 500 job postings are made available to OYM students each year, and 196 different companies hired OYM graduates in the past 3 years! The exposure along with support from staff are very advantageous aspects of this program.
+
+### Career Development Office {-}
+The Career Development Office (CDO) employs staff and peer coaches to assist students in finding their dream job. They have workshops throughout the semester, some built into the curriculum of current courses.
+
+The MBAn Program has its very own MBAn career coach who is focused on developing relationships with companies to recruit MBAn students, along with supporting students from this program preparing and going through the recruitment process. Currently, John Goebel serves this role and can be reached at jgoeb@umich.edu.
+
+[View the CDO website here.](https://sites.google.com/umich.edu/cdo-specialtymasters/home)  
+
+
+### Other Ross Resources {-}
+- Corporate Presentations
+- Workshops
+- Career Exploration Activities
+- Networking Hours
+- On and Off Campus Interview Opportunities
+- Resume and Linkedin Reviews
+- Mock Interviews
+- [Career Clubs](https://michiganross.umich.edu/graduate/master-of-business-analytics/student-experience/clubs-and-involvement)  
+
+## Long-Term Gains {-}
+Beyond the hard skills as well as teamwork and leadership skills built during the program, the greatest advantage is joining one of the largest alumni networks in the world. The University of Michigan and Ross's specific alumni are critical connections when moving into the workforce. The community and relationships built on campus and beyond with UM grads can pay off greatly in the future.
