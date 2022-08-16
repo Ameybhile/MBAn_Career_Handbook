@@ -2,7 +2,7 @@
 
 <center>
 
-![](/Users/apple/Documents/RProject/MBAn_Career_Handbook/Images/UMIC.jpg){width=50%}
+![](Images/UMIC.jpg){width=50%}
 
 </center>
 
