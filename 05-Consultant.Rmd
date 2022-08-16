@@ -64,8 +64,8 @@ Based on the Consultant Salary Guide, the latest information on management consu
 ## Recruitment Process in Consulting {-}
 
 ![](Images/jobstimeline.png){width=90%}
-> Starting with the 2023 fall recruiting, Consulting Giants, such as MBB, have moved up their fall recruiting round 1 deadline from September in previous years to July. So we, as candidates, must start preparing in advance
-> Usually, when you submit an online application for a position in the consulting, you will receive an online assessment if your resume passes the initial screening, but some companies issue OTs to all candidates. After that, there will be one round of HR Pre-Talk and two or three rounds of case interview. If you pass all of them, you will receive an offer!
+> Starting with the 2023 fall recruiting, Consulting Giants, such as MBB, have moved up their fall recruiting round 1 deadline from September in previous years to July. So we, as candidates, must start preparing in advance.\
+Usually, when you submit an online application for a position in the consulting, you will receive an online assessment if your resume passes the initial screening, but some companies issue OTs to all candidates. After that, there will be one round of HR Pre-Talk and two or three rounds of case interview. If you pass all of them, you will receive an offer!
 
 > 2023/2022 Consulting Company-North American Campus Recruiting Application and Interview Schedule (not exhausted):
 

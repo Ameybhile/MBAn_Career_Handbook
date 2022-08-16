@@ -13,5 +13,4 @@
 * https://michiganross.umich.edu/graduate/master-of-business-analytics/curriculum
 * https://internationalcenter.umich.edu/students/f1-students
 * https://internationalcenter.umich.edu/students/j1-students
-* https://www.caseinterview.com/consulting-salary
-* https://www.myconsultingoffer.org/what-is-consulting/
+
