@@ -160,4 +160,5 @@ Resource for finding the most important topics for data science interviews -
 * https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions
 * https://brainstation.io/career-guides/data-science-interview-questions
 
+> NOTE : References to the content present in this section can be found in the reference page of this book. 
 
