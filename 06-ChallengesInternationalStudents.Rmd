@@ -1,5 +1,14 @@
 # Challenges for International Students {-}
 
+<<<<<<< HEAD
+=======
+<center>
+
+![](Images/UMIC.jpg){width=50%}
+
+</center>
+
+>>>>>>> 17195be502b3861790e9ba370e6c30b9c9b9eaf9
 > For an international student, this document will guide you to maintain a legal residency in the US while working off campus after graduation or during your study. Off-campus employment without the appropriate work permit would be viewed as a breach of your visa requirements. As a penalty, you may lose one's legal immigration status in the United States, cause a potential deportation by the Department of Homeland Security, and put you on a situation in which extremely difficult future attempts to obtain a visa for entry into the United States.
 
 ## Types of student visa: F-1 vs J-1 {-}
