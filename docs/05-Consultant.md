@@ -177,3 +177,5 @@ Based on the Consultant Salary Guide, the latest information on management consu
 * Company websites: Coffee chat and recruiting events
 
 * LinkedIn: [Ross alumni group](https://www.linkedin.com/groups/603/), [Consulting group](https://www.linkedin.com/groups/1968923/), [MCommunity](https://mcommunity.umich.edu/) for finding alumni emails
+
+> NOTE : References to the content present in this section can be found in the reference page of this book. 
