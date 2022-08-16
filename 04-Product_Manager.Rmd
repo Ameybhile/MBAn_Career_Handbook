@@ -135,3 +135,4 @@ Seeing a list of skills is all well and good, but an interview gives a company a
 * https://www.amazon.com/Product-Manager-Interview-Questions-Answers/dp/0998120448
 * https://www.amazon.com/Decode-Conquer-4th-Lewis-Lin/dp/B09Q8WN1KS/
 
+> NOTE : References to the content present in this section can be found in the reference page of this book. 
