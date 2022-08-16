@@ -1,7 +1,7 @@
 --- 
 title: "MBAn Career Handbook"
 author: "Team - Keep Rolling"
-date: "2022-08-15"
+date: "2022-08-16"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

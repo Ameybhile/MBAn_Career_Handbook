@@ -1,7 +1,5 @@
 # Challenges for International Students {-}
 
-<<<<<<< HEAD
-=======
 <center>
 
 ![](Images/UMIC.jpg){width=50%}
